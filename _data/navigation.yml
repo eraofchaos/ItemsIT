@@ -1,12 +1,12 @@
 ﻿main:
   - title: "News"
-    url: /posts/
+    url: https://eraofchaos.github.io/posts/
 #  - title: "Categories"
 #    url: /categories/
 #  - title: "Tags"
 #    url: /tags/
   - title: "About"
-    url: /about/
+    url: https://eraofchaos.github.io/about/
 
 
 # documentation links
@@ -14,33 +14,33 @@ docs:
   - title: "Navigation"
     children:
     - title: "Heroes"
-      url: /heroes/
+      url: https://eraofchaos.github.io/heroes/
     - title: "Unità"
-      url: /units/
+      url: https://eraofchaos.github.io/units/
     - title: "Items"
-      url: /Items/
+      url: https://eraofchaos.github.io/ItemsIT/
     - title: "Artifacts"
-      url: /artifacts/
+      url: https://eraofchaos.github.io/artifacts/
     - title: "Emblema sacro"
-      url: /Emblem/
+      url: https://eraofchaos.github.io/Emblem/
     - title: "Laboratorio alchemico"
-      url: /Alchemy Workshop/
+      url: https://eraofchaos.github.io/Alchemy Workshop/
     - title: "Formazione di battaglia"
-      url: /Battle Formation/
+      url: https://eraofchaos.github.io/Battle Formation/
     - title: "Backup"
-      url: /Backup/
+      url: https://eraofchaos.github.io/Backup/
     - title: "Combination Bonus"
-      url: /combination/
+      url: https://eraofchaos.github.io/combination/
     - title: "Next Faction Week"
-      url: /Weekly Sign Rewards/
+      url: https://eraofchaos.github.io/Weekly Sign Rewards/
     - title: "Schedule"
-      url: /Schedule/
+      url: https://eraofchaos.github.io/Schedule/
     - title: "Hotspot Artifacs 2021"
-      url: /Hotspot/
+      url: https://eraofchaos.github.io/Hotspot/
     - title: "Hotspot Spells 2021"
-      url: /Hotspot/HotSpot Spell _2021/
+      url: https://eraofchaos.github.io/Hotspot/HotSpot Spell _2021/
     - title: "Sfinge answers"
-      url: /sphinx/
+      url: https://eraofchaos.github.io/sphinx/
 
   - title: "Language"
     children:

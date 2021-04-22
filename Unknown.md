@@ -12,6 +12,6 @@ classes: wide
 
   | Nr |         Nome        |   Descrizione     |
   |:---|:--------------------|:------------------|
-  | 1 | [Apparizione · Grazia (14 giorni)](/it/Items/unk_2117/){: .btn .btn--era5} | Metti in mostra la Grazia divina nel corso dei prossimi 14 giorni. Il campione dello Scontro degli Dei inter-server riceverà: |
-  | 2 | [Manuale di tattica](/it/Items/unk_2115/){: .btn .btn--era5} | Il Manuale di tattica raccoglie conoscenze avanzate in grado di aiutare qualsiasi eroe in battaglia. Usalo per aumentare il livello Aiutante di un eroe. |
-  | 3 | [Medaglia d'assistenza](/it/Items/unk_2116/){: .btn .btn--era4} | Usa le Medaglie d'assistenza per trasferire energia da un'unità d'assistenza a un'unità impegnata in combattimento. È una risorsa fondamentale per le unità d'assistenza. |
+  | 1 | [Apparizione · Grazia (14 giorni)](/ItemsIT/unk_2117/){: .btn .btn--era5} | Metti in mostra la Grazia divina nel corso dei prossimi 14 giorni. Il campione dello Scontro degli Dei inter-server riceverà: |
+  | 2 | [Manuale di tattica](/ItemsIT/unk_2115/){: .btn .btn--era5} | Il Manuale di tattica raccoglie conoscenze avanzate in grado di aiutare qualsiasi eroe in battaglia. Usalo per aumentare il livello Aiutante di un eroe. |
+  | 3 | [Medaglia d'assistenza](/ItemsIT/unk_2116/){: .btn .btn--era4} | Usa le Medaglie d'assistenza per trasferire energia da un'unità d'assistenza a un'unità impegnata in combattimento. È una risorsa fondamentale per le unità d'assistenza. |
