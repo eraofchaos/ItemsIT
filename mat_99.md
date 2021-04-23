@@ -2,13 +2,15 @@
 title: "Item - Materials - Zolfo splendente +5"
 permalink: /mat_99/
 excerpt: "Era of Chaos  Zolfo splendente +5"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: it
 ref: "mat_99.md"
 toc: false
 classes: wide
 ---
  [Materials](/ItemsIT/){: .btn .btn--primary}[Artifacts](/ItemsIT/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsIT/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsIT/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsIT/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsIT/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsIT/Gift/){: .btn .btn--success}[Event related](/ItemsIT/Events/){: .btn .btn--warning}[Avatars](/ItemsIT/Avatars/){: .btn .btn--danger}[Consumables](/ItemsIT/Consumables/){: .btn .btn--info}[Unknown](/ItemsIT/Unknown/){: .btn .btn--primary}
+
+ ![Zolfo splendente +5](/images/t/i_cailiao_liuhuang3.png)
 
 ## Dettagli
  **Descrizione:** Materiali comuni per potenziare l'equipaggiamento da arancione +5 a rosso.

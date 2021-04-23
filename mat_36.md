@@ -2,13 +2,15 @@
 title: "Item - Materials - Zolfo eccezionale"
 permalink: /mat_36/
 excerpt: "Era of Chaos  Zolfo eccezionale"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: it
 ref: "mat_36.md"
 toc: false
 classes: wide
 ---
  [Materials](/ItemsIT/){: .btn .btn--primary}[Artifacts](/ItemsIT/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsIT/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsIT/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsIT/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsIT/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsIT/Gift/){: .btn .btn--success}[Event related](/ItemsIT/Events/){: .btn .btn--warning}[Avatars](/ItemsIT/Avatars/){: .btn .btn--danger}[Consumables](/ItemsIT/Consumables/){: .btn .btn--info}[Unknown](/ItemsIT/Unknown/){: .btn .btn--primary}
+
+ ![Zolfo eccezionale](/images/t/i_cailiao_liuhuang2.png)
 
 ## Dettagli
  **Descrizione:** Materiali comuni per potenziare l'equipaggiamento da viola a viola +1.
