@@ -2,16 +2,16 @@
 title: "Item - Artifacts"
 permalink: /Artifacts/
 excerpt: "Artifacts in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Artifacts.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsIT/){: .btn .btn--primary}[Artifacts](/ItemsIT/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsIT/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsIT/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsIT/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsIT/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsIT/Gift/){: .btn .btn--success}[Event related](/ItemsIT/Events/){: .btn .btn--warning}[Avatars](/ItemsIT/Avatars/){: .btn .btn--danger}[Consumables](/ItemsIT/Consumables/){: .btn .btn--info}[Unknown](/ItemsIT/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsIT/){: .btn .btn--primary}[Artifacts](/ItemsIT/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsIT/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsIT/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsIT/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsIT/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsIT/Gift/){: .btn .btn--success}[Event related](/ItemsIT/Events/){: .btn .btn--warning}[Avatars](/ItemsIT/Avatars/){: .btn .btn--danger}[Consumables](/ItemsIT/Consumables/){: .btn .btn--info}[Unknown](/ItemsIT/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Nome        |   Descrizione     |
-  |:---|---|:--------------------|:------------------|
+  | Nr | Icon |         Nome        |   Descrizione     |
+  |:---|------|:--------------------|:------------------|
   | 1 | ![Amuleto Magico](/images/t/artifact_40212.png) | [Amuleto Magico](/ItemsIT/art_113/){: .btn .btn--era3} | Un amuleto dotato di potere magico. Uno dei componenti della Fonte del Mago. |
   | 2 | ![Amuleto del Becchino](/images/t/artifact_40321.png) | [Amuleto del Becchino](/ItemsIT/art_129/){: .btn .btn--era4} | Un amuleto usato da un Lich per proteggersi. Uno dei componenti del Mantello del Re Non Morto. |
   | 3 | ![Anello dell'Occhio d'aquila](/images/t/artifact_40334.png) | [Anello dell'Occhio d'aquila](/ItemsIT/art_135/){: .btn .btn--era5} | Un anello occulto con due occhi incastonati. Uno dei componenti dell'Occhio di Falco. |

@@ -2,16 +2,16 @@
 title: "Item - Avatars"
 permalink: /Avatars/
 excerpt: "Avatars in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Avatars.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsIT/){: .btn .btn--primary}[Artifacts](/ItemsIT/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsIT/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsIT/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsIT/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsIT/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsIT/Gift/){: .btn .btn--success}[Event related](/ItemsIT/Events/){: .btn .btn--warning}[Avatars](/ItemsIT/Avatars/){: .btn .btn--danger}[Consumables](/ItemsIT/Consumables/){: .btn .btn--info}[Unknown](/ItemsIT/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsIT/){: .btn .btn--primary}[Artifacts](/ItemsIT/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsIT/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsIT/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsIT/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsIT/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsIT/Gift/){: .btn .btn--success}[Event related](/ItemsIT/Events/){: .btn .btn--warning}[Avatars](/ItemsIT/Avatars/){: .btn .btn--danger}[Consumables](/ItemsIT/Consumables/){: .btn .btn--info}[Unknown](/ItemsIT/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Nome        |   Type  |   Descrizione     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Nome        |   Type  |   Descrizione     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 | ![Ali del trionfo: Gelu](/images/h/h_Gelu8.jpg) | [Ali del trionfo: Gelu](/ItemsIT/con_872/){: .btn .btn--era5} | Hero Avatar |  |
   | 2 | ![Armatura dorata: PhuThieu](/images/u/ti_datianshidiancangkapifu2.jpg) | [Armatura dorata: PhuThieu](/ItemsIT/con_972/){: .btn .btn--era5} | Hero Avatar |  |
   | 3 | ![Aura crescente - Avatar Mantide](/images/u/ti_tanglangpifu.jpg) | [Aura crescente - Avatar Mantide](/ItemsIT/con_593/){: .btn .btn--era5} | Hero Avatar |  |

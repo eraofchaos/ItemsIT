@@ -2,16 +2,16 @@
 title: "Item - Event related"
 permalink: /Events/
 excerpt: "Event related in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Event related.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsIT/){: .btn .btn--primary}[Artifacts](/ItemsIT/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsIT/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsIT/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsIT/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsIT/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsIT/Gift/){: .btn .btn--success}[Event related](/ItemsIT/Events/){: .btn .btn--warning}[Avatars](/ItemsIT/Avatars/){: .btn .btn--danger}[Consumables](/ItemsIT/Consumables/){: .btn .btn--info}[Unknown](/ItemsIT/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsIT/){: .btn .btn--primary}[Artifacts](/ItemsIT/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsIT/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsIT/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsIT/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsIT/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsIT/Gift/){: .btn .btn--success}[Event related](/ItemsIT/Events/){: .btn .btn--warning}[Avatars](/ItemsIT/Avatars/){: .btn .btn--danger}[Consumables](/ItemsIT/Consumables/){: .btn .btn--info}[Unknown](/ItemsIT/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Nome        |   Type  |   Descrizione     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Nome        |   Type  |   Descrizione     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 |  | [&](/ItemsIT/con_860/){: .btn .btn--era5} | Event related | Si dice che trovare tutti i simboli misteriosi delle terre straniere possa indicare la via verso un incredibile tesoro! |
   | 2 | ![Albero di Natale giocattolo](/images/t/i_690016.png) | [Albero di Natale giocattolo](/ItemsIT/con_1090/){: .btn .btn--era4} | Event related | Oggetto per l'evento Ruota natalizia. Può essere scambiato con ricompense di vario tipo durante l'evento. |
   | 3 | ![Anima di Alabardiere](/images/t/juexing_101.jpg) | [Anima di Alabardiere](/ItemsIT/con_2012/){: .btn .btn--era5} | Event related | Anima eroica immortale utilizzabile per attivare il Risveglio dei Picchieri |

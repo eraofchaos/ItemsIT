@@ -2,16 +2,16 @@
 title: "Item - Gift"
 permalink: /Gift/
 excerpt: "Gift in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Gift.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsIT/){: .btn .btn--primary}[Artifacts](/ItemsIT/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsIT/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsIT/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsIT/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsIT/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsIT/Gift/){: .btn .btn--success}[Event related](/ItemsIT/Events/){: .btn .btn--warning}[Avatars](/ItemsIT/Avatars/){: .btn .btn--danger}[Consumables](/ItemsIT/Consumables/){: .btn .btn--info}[Unknown](/ItemsIT/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsIT/){: .btn .btn--primary}[Artifacts](/ItemsIT/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsIT/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsIT/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsIT/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsIT/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsIT/Gift/){: .btn .btn--success}[Event related](/ItemsIT/Events/){: .btn .btn--warning}[Avatars](/ItemsIT/Avatars/){: .btn .btn--danger}[Consumables](/ItemsIT/Consumables/){: .btn .btn--info}[Unknown](/ItemsIT/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Nome        |   Type  |   Descrizione     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Nome        |   Type  |   Descrizione     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 | ![--- Non ancora tradotto ---](/images/t/i_907321.png) | [--- Non ancora tradotto ---](/ItemsIT/con_1960/){: .btn .btn--era5} | Gift | --- Non ancora tradotto --- |
   | 2 | ![1 Lacrima dell'oceano](/images/t/i_907466.png) | [1 Lacrima dell'oceano](/ItemsIT/con_1845/){: .btn .btn--era4} | Gift | Contiene 1 Lacrima dell'oceano e 180 Diamanti. |
   | 3 | ![1 Pozione di Fervore](/images/t/i_907470.png) | [1 Pozione di Fervore](/ItemsIT/con_1847/){: .btn .btn--era4} | Gift | Contiene 1 Pozione di Fervore e 400 Diamanti. |

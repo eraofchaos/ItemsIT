@@ -2,16 +2,16 @@
 title: "Item - Hero Soul"
 permalink: /HeroSoul/
 excerpt: "Hero Soul in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Hero Soul.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsIT/){: .btn .btn--primary}[Artifacts](/ItemsIT/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsIT/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsIT/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsIT/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsIT/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsIT/Gift/){: .btn .btn--success}[Event related](/ItemsIT/Events/){: .btn .btn--warning}[Avatars](/ItemsIT/Avatars/){: .btn .btn--danger}[Consumables](/ItemsIT/Consumables/){: .btn .btn--info}[Unknown](/ItemsIT/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsIT/){: .btn .btn--primary}[Artifacts](/ItemsIT/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsIT/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsIT/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsIT/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsIT/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsIT/Gift/){: .btn .btn--success}[Event related](/ItemsIT/Events/){: .btn .btn--warning}[Avatars](/ItemsIT/Avatars/){: .btn .btn--danger}[Consumables](/ItemsIT/Consumables/){: .btn .btn--info}[Unknown](/ItemsIT/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Nome        |   Type  |   Descrizione     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Nome        |   Type  |   Descrizione     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 | ![Adelaide](/images/h/h_Adelaide.jpg) | [Adelaide](/ItemsIT/her_359/){: .btn .btn--era5} | Hero Soul | Raccogli 30 Frammenti mistici per evocare Adelaide e aggiungerla alla tua squadra. I Frammenti mistici sono necessari anche per aumentare il suo rango. |
   | 2 | ![Astral](/images/h/h_Astral.jpg) | [Astral](/ItemsIT/her_388/){: .btn .btn--era5} | Hero Soul | Raccogli 30 Frammenti mistici per evocare Astral e aggiungerlo alla tua squadra. I Frammenti mistici sono necessari anche per aumentare il suo rango. |
   | 3 | ![Cassanbel](/images/h/h_Cassanbel.jpg) | [Cassanbel](/ItemsIT/her_396/){: .btn .btn--era5} | Hero Soul | Raccogli 30 Frammenti mistici per evocare Cassanbel e aggiungerla alla tua squadra. I Frammenti mistici sono necessari anche per aumentare il suo rango. |

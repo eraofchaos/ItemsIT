@@ -2,16 +2,16 @@
 title: "Item - Unit Awakening"
 permalink: /UnitAwakening/
 excerpt: "Unit Awakening in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Unit Awakening.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsIT/){: .btn .btn--primary}[Artifacts](/ItemsIT/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsIT/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsIT/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsIT/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsIT/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsIT/Gift/){: .btn .btn--success}[Event related](/ItemsIT/Events/){: .btn .btn--warning}[Avatars](/ItemsIT/Avatars/){: .btn .btn--danger}[Consumables](/ItemsIT/Consumables/){: .btn .btn--info}[Unknown](/ItemsIT/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsIT/){: .btn .btn--primary}[Artifacts](/ItemsIT/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsIT/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsIT/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsIT/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsIT/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsIT/Gift/){: .btn .btn--success}[Event related](/ItemsIT/Events/){: .btn .btn--warning}[Avatars](/ItemsIT/Avatars/){: .btn .btn--danger}[Consumables](/ItemsIT/Consumables/){: .btn .btn--info}[Unknown](/ItemsIT/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Nome        |   Type  |   Descrizione     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Nome        |   Type  |   Descrizione     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 | ![Pietra mistica Alabardiere](/images/u/tia_jibing.jpg) | [Pietra mistica Alabardiere](/ItemsIT/unt_282/){: .btn .btn--era5} | Awakening Soul | Pietra mistica utilizzabile per aumentare il livello di Risveglio dell'Alabardiere |
   | 2 | ![Pietra mistica Arcangelo](/images/u/tia_datianshi.jpg) | [Pietra mistica Arcangelo](/ItemsIT/unt_288/){: .btn .btn--era5} | Awakening Soul | Pietra mistica utilizzabile per aumentare il livello di Risveglio dell'Angelo |
   | 3 | ![Pietra mistica Arcidiavolo](/images/u/tia_daemo.jpg) | [Pietra mistica Arcidiavolo](/ItemsIT/unt_318/){: .btn .btn--era5} | Awakening Soul | Pietra mistica utilizzabile per aumentare il livello di Risveglio dell'Arcidiavolo |

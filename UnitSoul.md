@@ -2,16 +2,16 @@
 title: "Item - Unit Soul"
 permalink: /UnitSoul/
 excerpt: "Unit Soul in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Unit Soul.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsIT/){: .btn .btn--primary}[Artifacts](/ItemsIT/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsIT/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsIT/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsIT/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsIT/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsIT/Gift/){: .btn .btn--success}[Event related](/ItemsIT/Events/){: .btn .btn--warning}[Avatars](/ItemsIT/Avatars/){: .btn .btn--danger}[Consumables](/ItemsIT/Consumables/){: .btn .btn--info}[Unknown](/ItemsIT/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsIT/){: .btn .btn--primary}[Artifacts](/ItemsIT/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsIT/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsIT/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsIT/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsIT/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsIT/Gift/){: .btn .btn--success}[Event related](/ItemsIT/Events/){: .btn .btn--warning}[Avatars](/ItemsIT/Avatars/){: .btn .btn--danger}[Consumables](/ItemsIT/Consumables/){: .btn .btn--info}[Unknown](/ItemsIT/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Nome        |   Type  |   Descrizione     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Nome        |   Type  |   Descrizione     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 | ![Addestratore di squali](/images/u/ti_xunshashi.jpg) | [Addestratore di squali](/ItemsIT/unt_281/){: .btn .btn--era5} | Unit Soul | Una volta raccolti 80 token dell'anima, potrai evocare un Addestratore di squali. È inoltre possibile usare i token per aumentare il rango degli Addestratori di squali. |
   | 2 | ![Aeronave magica](/images/u/ti_reqiqiu.jpg) | [Aeronave magica](/ItemsIT/unt_242/){: .btn .btn--era4} | Unit Soul | Una volta raccolti 80 token dell'anima, potrai evocare un'Aeronave magica. È inoltre possibile usare i token per potenziare o aumentare il rango delle Aeronavi magiche. |
   | 3 | ![Angelo](/images/u/ti_datianshi.jpg) | [Angelo](/ItemsIT/unt_196/){: .btn .btn--era5} | Unit Soul | Una volta raccolti 80 token dell'anima, potrai evocare un Angelo, un'unità di rarità SSR. |

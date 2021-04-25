@@ -2,16 +2,16 @@
 title: "Item - Materials"
 permalink: /
 excerpt: "Materials in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Materials.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsIT/){: .btn .btn--primary}[Artifacts](/ItemsIT/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsIT/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsIT/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsIT/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsIT/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsIT/Gift/){: .btn .btn--success}[Event related](/ItemsIT/Events/){: .btn .btn--warning}[Avatars](/ItemsIT/Avatars/){: .btn .btn--danger}[Consumables](/ItemsIT/Consumables/){: .btn .btn--info}[Unknown](/ItemsIT/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsIT/){: .btn .btn--primary}[Artifacts](/ItemsIT/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsIT/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsIT/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsIT/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsIT/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsIT/Gift/){: .btn .btn--success}[Event related](/ItemsIT/Events/){: .btn .btn--warning}[Avatars](/ItemsIT/Avatars/){: .btn .btn--danger}[Consumables](/ItemsIT/Consumables/){: .btn .btn--info}[Unknown](/ItemsIT/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Nome        |   Descrizione     |
-  |:---|---|:--------------------|:------------------|
+  | Nr | Icon |         Nome        |   Descrizione     |
+  |:---|------|:--------------------|:------------------|
   | 1 | ![Certificato di leggendarietà](/images/t/i_cailiao_hexin3.png) | [Certificato di leggendarietà](/ItemsIT/mat_67/){: .btn .btn--era5} | Materiali rari per potenziare l'equipaggiamento da arancione ad arancione +1. |
   | 2 | ![Certificato di leggendarietà +1](/images/t/i_cailiao_hexin3.png) | [Certificato di leggendarietà +1](/ItemsIT/mat_74/){: .btn .btn--era5} | Materiali rari per potenziare l'equipaggiamento da arancione +1 ad arancione +2. |
   | 3 | ![Certificato di leggendarietà +2](/images/t/i_cailiao_hexin3.png) | [Certificato di leggendarietà +2](/ItemsIT/mat_81/){: .btn .btn--era5} | Materiali rari per potenziare l'equipaggiamento da arancione +2 ad arancione +3. |
