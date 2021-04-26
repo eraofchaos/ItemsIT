@@ -2,7 +2,7 @@
 title: "Item - Consumables"
 permalink: /Consumables/
 excerpt: "Consumables in Era of Chaos"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Consumables.md"
 toc: false
@@ -36,7 +36,7 @@ classes: wide
   | 22 | ![Canto di Natale - Skin Adelaide (2 giorni)](/images/h/h_Adelaide6.jpg) | [Canto di Natale - Skin Adelaide (2 giorni)](/ItemsIT/con_1018/){: .btn .btn--era5} | Experience Card | Rende disponibile la skin Canto di Natale per Adelaide per 2 giorni. |
   | 23 | ![Canto di Natale - Skin avatar Adelaide (2 giorni)](/images/h/h_Adelaide5.jpg) | [Canto di Natale - Skin avatar Adelaide (2 giorni)](/ItemsIT/con_1016/){: .btn .btn--era5} | Experience Card | Rende disponibile la skin avatar Canto di Natale per Adelaide per 2 giorni. |
   | 24 | ![Capitano: Caterina](/images/h/h_Catherine6.jpg) | [Capitano: Caterina](/ItemsIT/con_1029/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Capitano per Caterina |
-  | 25 |  | [Certificato di gloria](/ItemsIT/con_933/){: .btn .btn--era5} | Other | Certificato di gloria che è possibile ottenere tramite le ricompense Attività dell'Arena della Gloria e i risultati giornalieri. |
+  | 25 | ![Certificato di gloria](/images/t/i_40021.png) | [Certificato di gloria](/ItemsIT/con_933/){: .btn .btn--era5} | Other | Certificato di gloria che è possibile ottenere tramite le ricompense Attività dell'Arena della Gloria e i risultati giornalieri. |
   | 26 | ![Certificato divino](/images/t/i_40053.png) | [Certificato divino](/ItemsIT/con_958/){: .btn .btn--era5} | Other | Certificato divino, la ricompensa rango stagionale dell'Arena della Gloria. |
   | 27 | ![Chiave del Vaso di Pandora](/images/t/i_40052.png) | [Chiave del Vaso di Pandora](/ItemsIT/con_957/){: .btn .btn--era4} | Other | Una chiave misteriosa. Usala per aprire il Vaso di Pandora. |
   | 28 | ![Ciele Vega](/images/h/h_Ciele3.jpg) | [Ciele Vega](/ItemsIT/con_1061/){: .btn .btn--era5} | Special Skin | Usa per ottenere una skin: Ciele Vega |
@@ -52,7 +52,7 @@ classes: wide
   | 38 | ![Cristallo di sangue draconico](/images/t/i_116.png) | [Cristallo di sangue draconico](/ItemsIT/con_879/){: .btn .btn--era5} | Other | Un cumulo di Cristalli di sangue draconico (risorsa di livello 4); si può usare per migliorare la Caserma. |
   | 39 |  | [Cristallo magico](/ItemsIT/con_895/){: .btn .btn--era4} | VIP related | Fanne uso per migliorare i tuoi incantesimi presso la Gilda dei Maghi. Si ottiene completando i livelli. |
   | 40 | ![Cristallo mistico](/images/t/i_40012.png) | [Cristallo mistico](/ItemsIT/con_924/){: .btn .btn--era5} | Other | Scambia il Cristallo mistico con degli Emblemi sacri nel negozio del Colpo fortunato. Si può ottenere giocando a Colpo fortunato. |
-  | 41 |  | [Cristallo sacro](/ItemsIT/con_927/){: .btn .btn--era5} | Other | Un cristallo condensato soprannaturale. Si può scambiare per ottenere rifornimenti rari nel negozio Inter-server. Si può ottenere nello Scontro degli Dei inter-server. |
+  | 41 | ![Cristallo sacro](/images/t/i_godStone.png) | [Cristallo sacro](/ItemsIT/con_927/){: .btn .btn--era5} | Other | Un cristallo condensato soprannaturale. Si può scambiare per ottenere rifornimenti rari nel negozio Inter-server. Si può ottenere nello Scontro degli Dei inter-server. |
   | 42 |  | [Cristallo verde](/ItemsIT/con_711/){: .btn .btn--era2} | Material | Una misteriosa Pietra runica. Migliora moderatamente la conoscenza delle tecniche delle tue unità. Fanne uso per ottenere 50 ESP tecnica. |
   | 43 |  | [Cristallo viola](/ItemsIT/con_720/){: .btn .btn--era4} | Material | Una misteriosa Pietra runica. Migliora notevolmente la conoscenza delle tecniche delle tue unità. Fanne uso per ottenere 450 ESP tecnica. |
   | 44 |  | [Dadi](/ItemsIT/con_946/){: .btn .btn--era4} | VIP related | Splendidi dadi utilizzabili durante l'evento Mare curativo. |
@@ -94,7 +94,7 @@ classes: wide
   | 80 | ![Fiala media del legame energetico](/images/t/i_521.png) | [Fiala media del legame energetico](/ItemsIT/con_725/){: .btn .btn--era4} | EXP | Una fiala contenente essenza di manufatto. Fanne uso per ottenere 20 essenze di manufatto. |
   | 81 | ![Fiala piccola del legame energetico](/images/t/i_520.png) | [Fiala piccola del legame energetico](/ItemsIT/con_724/){: .btn .btn--era4} | EXP | Una fiala contenente un po' di essenza di manufatto. Fanne uso per ottenere 10 essenze di manufatto. |
   | 82 | ![Figlio della foresta: Ryland](/images/h/h_Ryland3.jpg) | [Figlio della foresta: Ryland](/ItemsIT/con_1044/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Figlio della foresta per Ryland |
-  | 83 |  | [Fondo Gilda](/ItemsIT/con_930/){: .btn .btn--era4} | Other | Si può ottenere tramite delle donazioni. Utilizzabile per l'Asta cittadina nella Guerra tra Gilde inter-server. |
+  | 83 | ![Fondo Gilda](/images/t/i_40018.png) | [Fondo Gilda](/ItemsIT/con_930/){: .btn .btn--era4} | Other | Si può ottenere tramite delle donazioni. Utilizzabile per l'Asta cittadina nella Guerra tra Gilde inter-server. |
   | 84 | ![Freccia](/images/t/i_arrow.png) | [Freccia](/ItemsIT/con_890/){: .btn .btn--era4} | VIP related | Freccia usata abitualmente dagli Elfi del bosco. |
   | 85 | ![Gelu Sagra della Primavera](/images/h/h_Gelu7.jpg) | [Gelu Sagra della Primavera](/ItemsIT/con_1039/){: .btn .btn--era5} | Special Skin | Usa per ottenere una skin: Gelu Sagra della Primavera |
   | 86 | ![Gem Calciatrice](/images/h/h_Gem3.jpg) | [Gem Calciatrice](/ItemsIT/con_1046/){: .btn .btn--era5} | Special Skin | Usa per ottenere una skin: Gem Calciatrice |
@@ -124,7 +124,7 @@ classes: wide
   | 110 | ![Moneta Auto Chess](/images/t/i_40023.png) | [Moneta Auto Chess](/ItemsIT/con_935/){: .btn .btn--era5} | Other | Affronta la campagna Heroes Auto Chess per ottenere Monete Auto Chess. |
   | 111 | ![Moneta Duello](/images/t/i_117.png) | [Moneta Duello](/ItemsIT/con_907/){: .btn .btn--era5} | VIP related | Ottieni Monete Duello giocando in modalità Duello degli Eroi. |
   | 112 | ![Moneta Gilda](/images/t/i_98.png) | [Moneta Gilda](/ItemsIT/con_896/){: .btn .btn--era4} | VIP related | Scambia al negozio della Gilda per ottenere degli oggetti. |
-  | 113 |  | [Moneta Gilda inter-server](/ItemsIT/con_929/){: .btn .btn--era4} | Other | Si può ottenere partecipando alla Guerra tra Gilde inter-server. |
+  | 113 | ![Moneta Gilda inter-server](/images/t/i_40017.png) | [Moneta Gilda inter-server](/ItemsIT/con_929/){: .btn .btn--era4} | Other | Si può ottenere partecipando alla Guerra tra Gilde inter-server. |
   | 114 | ![Moneta Gloria](/images/t/i_40010.png) | [Moneta Gloria](/ItemsIT/con_922/){: .btn .btn--era4} | Other | Forgiata dalla gloriosa luce del Regno. Si può ottenere combattendo nelle battaglie del Torneo Reale. |
   | 115 | ![Moneta Lega](/images/t/i_112.png) | [Moneta Lega](/ItemsIT/con_892/){: .btn .btn--era4} | VIP related | Ottieni le Monete Lega nel Duello dei Campioni e tramite le Ricompense stagionali. |
   | 116 | ![Moneta Rifornimenti militari](/images/t/i_40009.png) | [Moneta Rifornimenti militari](/ItemsIT/con_921/){: .btn .btn--era4} | Other | È possibile usare le Monete Rifornimenti militari per produrre componenti. |
@@ -139,7 +139,7 @@ classes: wide
   | 125 | ![Nata dalle ceneri](/images/a/avatarFrame_76.png) | [Nata dalle ceneri](/ItemsIT/con_1022/){: .btn .btn--era5} | Experience Card | Ottenibile nell'Arena della Gloria |
   | 126 | ![Nata dalle ceneri: Luna](/images/h/h_Luna3.jpg) | [Nata dalle ceneri: Luna](/ItemsIT/con_1060/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Nata dalle ceneri per Luna |
   | 127 | ![Nirvana sfavillante: skin per Rapace di fuoco](/images/u/ti_fenghuangpifu.jpg) | [Nirvana sfavillante: skin per Rapace di fuoco](/ItemsIT/con_2002/){: .btn .btn--era5} | Unit Skin | Contiene la skin Nirvana sfavillante per Rapace di fuoco. |
-  | 128 |  | [Nucleo di energia](/ItemsIT/con_931/){: .btn .btn--era5} | Battle Formation | Si può usare per attivare nodi di formazione. |
+  | 128 | ![Nucleo di energia](/images/t/i_40019.png) | [Nucleo di energia](/ItemsIT/con_931/){: .btn .btn--era5} | Battle Formation | Si può usare per attivare nodi di formazione. |
   | 129 | ![Ombracciaio](/images/t/i_114.png) | [Ombracciaio](/ItemsIT/con_881/){: .btn .btn--era4} | Other | Un cumulo di Ombracciaio (risorsa di livello 2); si può usare per migliorare la Caserma. |
   | 130 | ![Oro](/images/t/i_103.png) | [Oro](/ItemsIT/con_899/){: .btn .btn--era9} | VIP related | L'oro può essere usato in tanti modi diversi. |
   | 131 | ![Pacchetto Acciaio draconico](/images/t/i_907004.png) | [Pacchetto Acciaio draconico](/ItemsIT/con_729/){: .btn .btn--era5} | EXP | Una scatola regalo contenente una grande quantità di Acciaio draconico. Aprila e riceverai 1.000 Acciaio draconico. |
@@ -147,7 +147,7 @@ classes: wide
   | 133 | ![Pacchetto Ricompensa gratuita](/images/t/i_red_1.png) | [Pacchetto Ricompensa gratuita](/ItemsIT/con_842/){: .btn .btn--era5} | Guild member gift | Hai completato il livello 3 della Prova degli Angeli! Puoi inviare gratuitamente una busta rossa ai membri della tua Gilda! |
   | 134 | ![Pacchetto Ricompense Diamanti](/images/t/i_10043_redpacket.png) | [Pacchetto Ricompense Diamanti](/ItemsIT/con_557/){: .btn .btn--era5} | Event related | Un pacchetto Ricompense pieno di Diamanti. Aprilo e tenta la sorte! (L'oggetto verrà eliminato al termine dell'evento) |
   | 135 | ![Pacchetto Ricompense Monete](/images/t/i_10042_redpacket.png) | [Pacchetto Ricompense Monete](/ItemsIT/con_556/){: .btn .btn--era4} | Event related | Un pacchetto Ricompense pieno di Monete. Aprilo e tenta la sorte! (L'oggetto verrà eliminato al termine dell'evento) |
-  | 136 |  | [Pacchetto bonus Gratitudine](/ItemsIT/con_2114/){: .btn .btn--era4} | Exclusive Token related | Aprilo per ricevere 1 token Arma universale a scelta |
+  | 136 | ![Pacchetto bonus Gratitudine](/images/t/i_906044.png) | [Pacchetto bonus Gratitudine](/ItemsIT/con_2114/){: .btn .btn--era4} | Exclusive Token related | Aprilo per ricevere 1 token Arma universale a scelta |
   | 137 | ![Pacchetto con 118 Diamanti](/images/t/i_tool_30272.png) | [Pacchetto con 118 Diamanti](/ItemsIT/con_736/){: .btn .btn--era3} | EXP | Un pacchetto con 118 Diamanti! |
   | 138 | ![Pacchetto con 198 Diamanti](/images/t/i_tool_30273.png) | [Pacchetto con 198 Diamanti](/ItemsIT/con_737/){: .btn .btn--era4} | EXP | Un pacchetto con 198 Diamanti! |
   | 139 | ![Pacchetto con 428 Diamanti](/images/t/i_tool_30274.png) | [Pacchetto con 428 Diamanti](/ItemsIT/con_738/){: .btn .btn--era4} | EXP | Uno scrigno del tesoro contenente 428 Diamanti! |
@@ -165,7 +165,7 @@ classes: wide
   | 151 | ![Pozione ESP enorme](/images/t/i_503.png) | [Pozione ESP enorme](/ItemsIT/con_703/){: .btn .btn--era4} | EXP | Bottiglia contenente una pozione ESP altamente purificata. Bevi per guadagnare 7.500 ESP unità. |
   | 152 | ![Pozione ESP grande](/images/t/i_502.png) | [Pozione ESP grande](/ItemsIT/con_702/){: .btn .btn--era3} | EXP | Bottiglia contenente una pozione ESP purificata. Bevi per guadagnare 1.500 ESP unità. |
   | 153 | ![Pozione ESP piccola](/images/t/i_501.png) | [Pozione ESP piccola](/ItemsIT/con_701/){: .btn .btn--era2} | EXP | Piccola bottiglia contenente una pozione ESP opaca. Bevi per guadagnare 300 ESP unità. |
-  | 154 |  | [Pozione alchemica](/ItemsIT/con_932/){: .btn .btn--era5} | Other | Pozione alchemica ottenibile raffinando materiali nel Laboratorio alchemico. |
+  | 154 | ![Pozione alchemica](/images/t/i_40020.png) | [Pozione alchemica](/ItemsIT/con_932/){: .btn .btn--era5} | Other | Pozione alchemica ottenibile raffinando materiali nel Laboratorio alchemico. |
   | 155 | ![Pozione di Energia grande](/images/t/i_506.png) | [Pozione di Energia grande](/ItemsIT/con_706/){: .btn .btn--era4} | EXP | Una bottiglia contenente una Pozione di Energia altamente purificata. Bevi per guadagnare 60 Energia. |
   | 156 | ![Pozione di Energia media](/images/t/i_505.png) | [Pozione di Energia media](/ItemsIT/con_705/){: .btn .btn--era3} | EXP | Una bottiglia contenente una Pozione di Energia. Bevi per guadagnare 30 Energia. |
   | 157 | ![Pozione di Energia piccola](/images/t/i_504.png) | [Pozione di Energia piccola](/ItemsIT/con_704/){: .btn .btn--era2} | EXP | Piccola bottiglia contenente una Pozione di Energia torbida. Bevi per guadagnare 6 Energia. |
@@ -314,11 +314,11 @@ classes: wide
   | 300 | ![Tool_31036](/images/t/i_red_2.png) | [Tool_31036](/ItemsIT/con_857/){: .btn .btn--era5} | Guild member gift |  |
   | 301 | ![Tool_31037](/images/t/i_red_2.png) | [Tool_31037](/ItemsIT/con_858/){: .btn .btn--era5} | Guild member gift |  |
   | 302 |  | [Tool_40013](/ItemsIT/con_925/){: .btn .btn--era4} | Other |  |
-  | 303 |  | [Tool_40024](/ItemsIT/con_936/){: .btn .btn--era5} | Other |  |
-  | 304 |  | [Tool_40025](/ItemsIT/con_937/){: .btn .btn--era5} | Other |  |
-  | 305 |  | [Tool_40026](/ItemsIT/con_938/){: .btn .btn--era5} | Other |  |
-  | 306 |  | [Tool_40027](/ItemsIT/con_939/){: .btn .btn--era5} | Other |  |
-  | 307 |  | [Tool_40028](/ItemsIT/con_940/){: .btn .btn--era5} | Other |  |
+  | 303 | ![Tool_40024](/images/t/i_40024.png) | [Tool_40024](/ItemsIT/con_936/){: .btn .btn--era5} | Other |  |
+  | 304 | ![Tool_40025](/images/t/i_40025.png) | [Tool_40025](/ItemsIT/con_937/){: .btn .btn--era5} | Other |  |
+  | 305 | ![Tool_40026](/images/t/i_40026.png) | [Tool_40026](/ItemsIT/con_938/){: .btn .btn--era5} | Other |  |
+  | 306 | ![Tool_40027](/images/t/i_40027.png) | [Tool_40027](/ItemsIT/con_939/){: .btn .btn--era5} | Other |  |
+  | 307 | ![Tool_40028](/images/t/i_40028.png) | [Tool_40028](/ItemsIT/con_940/){: .btn .btn--era5} | Other |  |
   | 308 |  | [Tool_499035](/ItemsIT/con_1002/){: .btn .btn--era4} | Exclusive piece |  |
   | 309 | ![Tool_6030403](/images/h/h_Gem5.jpg) | [Tool_6030403](/ItemsIT/con_1047/){: .btn .btn--era5} | Special Skin |  |
   | 310 | ![Tool_6070503](/images/h/h_Ciele5.jpg) | [Tool_6070503](/ItemsIT/con_1062/){: .btn .btn--era5} | Special Skin |  |
