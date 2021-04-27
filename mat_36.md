@@ -2,7 +2,7 @@
 title: "Item - Materials - Zolfo eccezionale"
 permalink: /mat_36/
 excerpt: "Era of Chaos  Zolfo eccezionale"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "mat_36.md"
 toc: false
