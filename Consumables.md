@@ -2,7 +2,7 @@
 title: "Item - Consumables"
 permalink: /Consumables/
 excerpt: "Consumables in Era of Chaos"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Consumables.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Event related"
 permalink: /Events/
 excerpt: "Event related in Era of Chaos"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Event related.md"
 toc: false
