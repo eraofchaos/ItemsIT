@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristallo mistico +3"
 permalink: /mat_87/
 excerpt: "Era of Chaos  Cristallo mistico +3"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: it
 ref: "mat_87.md"
 toc: false

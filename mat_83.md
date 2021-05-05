@@ -2,7 +2,7 @@
 title: "Item - Materials - Legname mistico +3"
 permalink: /mat_83/
 excerpt: "Era of Chaos  Legname mistico +3"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: it
 ref: "mat_83.md"
 toc: false
