@@ -2,7 +2,7 @@
 title: "Item - Materials - Legname eterno +1"
 permalink: /mat_69/
 excerpt: "Era of Chaos  Legname eterno +1"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "mat_69.md"
 toc: false

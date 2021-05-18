@@ -2,7 +2,7 @@
 title: "Item - Gift"
 permalink: /Gift/
 excerpt: "Gift in Era of Chaos"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Gift.md"
 toc: false
@@ -669,4 +669,5 @@ classes: wide
   | 655 | ![Tool_907418](/images/t/i_907416.png) | [Tool_907418](/ItemsIT/con_1796/){: .btn .btn--era4} | Gift |  |
   | 656 | ![Tool_907419](/images/t/i_907417.png) | [Tool_907419](/ItemsIT/con_1797/){: .btn .btn--era4} | Gift |  |
   | 657 | ![Tool_907545](/images/t/i_907219.png) | [Tool_907545](/ItemsIT/con_1922/){: .btn .btn--era4} | Gift |  |
-  | 658 | ![Tool_990099](/images/t/i_114.png) | [Tool_990099](/ItemsIT/con_2099/){: .btn .btn--era4} | Gift |  |
+  | 658 |  | [Tool_907612](/it/Items/con_2151/){: .btn .btn--era5} | Gift |  |
+  | 659 | ![Tool_990099](/images/t/i_114.png) | [Tool_990099](/ItemsIT/con_2099/){: .btn .btn--era4} | Gift |  |

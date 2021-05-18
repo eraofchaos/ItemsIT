@@ -2,7 +2,7 @@
 title: "Item - Materials - Legname raro +1"
 permalink: /mat_41/
 excerpt: "Era of Chaos  Legname raro +1"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "mat_41.md"
 toc: false

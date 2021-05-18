@@ -2,7 +2,7 @@
 title: "Item - Avatars"
 permalink: /Avatars/
 excerpt: "Avatars in Era of Chaos"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Avatars.md"
 toc: false
@@ -35,67 +35,68 @@ classes: wide
   | 21 | ![Avatar Luna](/images/h/h_Luna1.jpg) | [Avatar Luna](/ItemsIT/con_575/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Luna |
   | 22 | ![Avatar Mephala](/images/h/h_Mephala1.jpg) | [Avatar Mephala](/ItemsIT/con_563/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Mephala |
   | 23 | ![Avatar Nato dalle ceneri](/images/h/h_Luna3.jpg) | [Avatar Nato dalle ceneri](/ItemsIT/con_576/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere la skin e l'avatar Nata dalle ceneri per Luna |
-  | 24 | ![Avatar Rashka](/images/h/h_Rashka1.jpg) | [Avatar Rashka](/ItemsIT/con_572/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Rashka |
-  | 25 | ![Avatar Sandro (umano)](/images/h/h_HumanSandro1.jpg) | [Avatar Sandro (umano)](/ItemsIT/con_579/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Sandro (umano) |
-  | 26 | ![Avatar Sephinroth](/images/h/h_Sephinroth1.jpg) | [Avatar Sephinroth](/ItemsIT/con_578/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Sephinroth |
-  | 27 | ![Avatar Shiva](/images/h/h_Shiwa.jpg) | [Avatar Shiva](/ItemsIT/con_1007/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Shiva |
-  | 28 | ![Avatar Squadra di esploratori](/images/h/h_Gelu5.jpg) | [Avatar Squadra di esploratori](/ItemsIT/con_570/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere la skin e l'avatar Squadra di esploratori per Gelu |
-  | 29 | ![Avatar Strega malvagia](/images/u/ti_xiemonvyuanhuatouxiang.jpg) | [Avatar Strega malvagia](/ItemsIT/con_599/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Strega malvagia. |
-  | 30 | ![Avatar Tiranno della Cenere](/images/h/h_Rashka3.jpg) | [Avatar Tiranno della Cenere](/ItemsIT/con_568/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere la skin e l'avatar Tiranno della Cenere per Rashka |
-  | 31 | ![Avatar Troll](/images/u/ti_suoerjurenyuanhuatouxiang.jpg) | [Avatar Troll](/ItemsIT/con_598/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Troll. |
-  | 32 | ![Avatar Veggente di Regna](/images/u/ti_haihouyuanhuatouxiang.jpg) | [Avatar Veggente di Regna](/ItemsIT/con_2117/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Veggente di Regna. |
-  | 33 | ![Avatar Volo del drago, balzo del leone](/images/h/h_Gem4.jpg) | [Avatar Volo del drago, balzo del leone](/ItemsIT/con_873/){: .btn .btn--era5} | Hero Avatar |  |
-  | 34 | ![Avatar Wystan](/images/h/h_Wystan1.jpg) | [Avatar Wystan](/ItemsIT/con_582/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Wystan |
-  | 35 | ![Avatar Yog](/images/h/h_Yog1.jpg) | [Avatar Yog](/ItemsIT/con_574/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Yog |
-  | 36 | ![Avatar bozzetto Antico mostro marino](/images/u/ti_haiguai1.jpg) | [Avatar bozzetto Antico mostro marino](/ItemsIT/con_1103/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Effetti speciali Antico mostro marino. |
-  | 37 | ![Avatar bozzetto Elementale delle maree](/images/u/ti_hailing1.jpg) | [Avatar bozzetto Elementale delle maree](/ItemsIT/con_1099/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Effetti speciali Elementale delle maree. |
-  | 38 | ![Avatar bozzetto Re dei Pirati](/images/u/ti_haidao1.jpg) | [Avatar bozzetto Re dei Pirati](/ItemsIT/con_1101/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Effetti speciali Re dei Pirati. |
-  | 39 | ![Balzo del leone - Avatar Gem](/images/h/h_Gem5.jpg) | [Balzo del leone - Avatar Gem](/ItemsIT/con_874/){: .btn .btn--era5} | Hero Avatar |  |
-  | 40 | ![Elfo di Natale](/images/h/h_MutareDrake5.jpg) | [Elfo di Natale](/ItemsIT/con_591/){: .btn .btn--era5} | Hero Avatar | Elfo natalizio che gioca con la neve |
-  | 41 | ![Pacchetto Commentatori popolari](/images/t/i_907003.png) | [Pacchetto Commentatori popolari](/ItemsIT/con_615/){: .btn .btn--era5} | Avatar frame | Ricompense evento Commentatori popolari. Apri per ricevere una cornice avatar. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
-  | 42 | ![Pacchetto cornice avatar Bianco Natale](/images/a/avatarFrame_48.png) | [Pacchetto cornice avatar Bianco Natale](/ItemsIT/con_640/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Gelido Natale. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
-  | 43 | ![Pacchetto cornice avatar Dominatore del cielo](/images/a/avatarFrame_41.png) | [Pacchetto cornice avatar Dominatore del cielo](/ItemsIT/con_637/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Dominatore del cielo. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
-  | 44 | ![Pacchetto cornice avatar Dominatore del gelo](/images/a/avatarFrame_38.png) | [Pacchetto cornice avatar Dominatore del gelo](/ItemsIT/con_634/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Dominatore del gelo. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
-  | 45 | ![Pacchetto cornice avatar Dominatore del vuoto](/images/a/avatarFrame_42.png) | [Pacchetto cornice avatar Dominatore del vuoto](/ItemsIT/con_638/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Dominatore del vuoto. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
-  | 46 | ![Pacchetto cornice avatar Dominatore della terra](/images/a/avatarFrame_40.png) | [Pacchetto cornice avatar Dominatore della terra](/ItemsIT/con_636/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Dominatore della terra. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
-  | 47 | ![Pacchetto cornice avatar Dominatore delle fiamme](/images/a/avatarFrame_39.png) | [Pacchetto cornice avatar Dominatore delle fiamme](/ItemsIT/con_635/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Dominatore delle fiamme. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
-  | 48 | ![Pacchetto cornice avatar Maestro di magie](/images/a/avatarFrame_37.png) | [Pacchetto cornice avatar Maestro di magie](/ItemsIT/con_633/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Maestro di magie. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
-  | 49 | ![Pacchetto cornice avatar Messaggero celeste](/images/a/avatarFrame_43.png) | [Pacchetto cornice avatar Messaggero celeste](/ItemsIT/con_639/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Messaggero celestiale. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
-  | 50 | ![Pacchetto cornice avatar Viveur](/images/t/i_907003.png) | [Pacchetto cornice avatar Viveur](/ItemsIT/con_631/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Viveur. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
-  | 51 | ![Pacchetto regalo Comandante letale](/images/t/i_907003.png) | [Pacchetto regalo Comandante letale](/ItemsIT/con_622/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Comandante letale. Sbloccando questa cornice riceverai 30 Diamanti. |
-  | 52 | ![Pacchetto regalo Comandante tattico](/images/t/i_907003.png) | [Pacchetto regalo Comandante tattico](/ItemsIT/con_621/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Comandante tattico. Sbloccando questa cornice riceverai 30 Diamanti. |
-  | 53 | ![Pacchetto regalo cornice avatar Amore di ghiaccio e fuoco](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Amore di ghiaccio e fuoco](/ItemsIT/con_629/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Amore di ghiaccio e fuoco. Sbloccando questa cornice riceverai 30 Diamanti. |
-  | 54 | ![Pacchetto regalo cornice avatar Atleta](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Atleta](/ItemsIT/con_603/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Atleta! |
-  | 55 | ![Pacchetto regalo cornice avatar Baluardo](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Baluardo](/ItemsIT/con_613/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Baluardo! |
-  | 56 | ![Pacchetto regalo cornice avatar Castello](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Castello](/ItemsIT/con_612/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Castello! |
-  | 57 | ![Pacchetto regalo cornice avatar Collezionista di tesori](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Collezionista di tesori](/ItemsIT/con_620/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Collezionista di tesori! |
-  | 58 | ![Pacchetto regalo cornice avatar Cuor di Grifone](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Cuor di Grifone](/ItemsIT/con_607/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Cuor di Grifone! |
-  | 59 | ![Pacchetto regalo cornice avatar Cuore di fuoco](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Cuore di fuoco](/ItemsIT/con_624/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Cuore di fuoco. Sbloccando questa cornice riceverai 30 Diamanti. |
-  | 60 | ![Pacchetto regalo cornice avatar Danza delle Lame](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Danza delle Lame](/ItemsIT/con_627/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Danza delle Lame. Sbloccando questa cornice riceverai 30 Diamanti. |
-  | 61 | ![Pacchetto regalo cornice avatar Furia della natura](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Furia della natura](/ItemsIT/con_630/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Furia della natura. Sbloccando questa cornice riceverai 30 Diamanti. |
-  | 62 | ![Pacchetto regalo cornice avatar Guerriero](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Guerriero](/ItemsIT/con_602/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Guerriero! |
-  | 63 | ![Pacchetto regalo cornice avatar Inferno](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Inferno](/ItemsIT/con_604/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Inferno! |
-  | 64 | ![Pacchetto regalo cornice avatar Maestro d'incantesimi](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Maestro d'incantesimi](/ItemsIT/con_611/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Maestro d'incantesimi! |
-  | 65 | ![Pacchetto regalo cornice avatar Necropoli](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Necropoli](/ItemsIT/con_614/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Necropoli! |
-  | 66 | ![Pacchetto regalo cornice avatar Nirvana della Fenice](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Nirvana della Fenice](/ItemsIT/con_618/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Nirvana della Fenice! |
-  | 67 | ![Pacchetto regalo cornice avatar Roccaforte](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Roccaforte](/ItemsIT/con_605/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Roccaforte! |
-  | 68 | ![Pacchetto regalo cornice avatar Segreti della Sfinge](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Segreti della Sfinge](/ItemsIT/con_626/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Segreti della Sfinge. Sbloccando questa cornice riceverai 30 Diamanti. |
-  | 69 | ![Pacchetto regalo cornice avatar Signore dei cieli](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Signore dei cieli](/ItemsIT/con_619/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Signore dei cieli! |
-  | 70 | ![Pacchetto regalo cornice avatar Signore della guerra](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Signore della guerra](/ItemsIT/con_610/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Signore della guerra! |
-  | 71 | ![Pacchetto regalo cornice avatar Torre](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Torre](/ItemsIT/con_606/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Torre! |
-  | 72 | ![Tiratore esperto](/images/u/ti_huanyingsheshounan.jpg) | [Tiratore esperto](/ItemsIT/con_564/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Tiratore esperto |
-  | 73 | ![Tiratrice esperta](/images/u/ti_huanyingsheshounv.jpg) | [Tiratrice esperta](/ItemsIT/con_565/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Tiratrice esperta |
-  | 74 | ![Tool_10130](/images/h/h_PeterLee.jpg) | [Tool_10130](/ItemsIT/con_589/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Peter Lee |
-  | 75 | ![Tool_10131](/images/h/h_Ciele5.jpg) | [Tool_10131](/ItemsIT/con_590/){: .btn .btn--era5} | Hero Avatar |  |
-  | 76 | ![Tool_10133](/images/h/h_Roland9.jpg) | [Tool_10133](/ItemsIT/con_592/){: .btn .btn--era5} | Hero Avatar |  |
-  | 77 | ![Tool_10135](/images/h/h_Gem5.jpg) | [Tool_10135](/ItemsIT/con_594/){: .btn .btn--era5} | Hero Avatar |  |
-  | 78 | ![Tool_10136](/images/h/h_Cassanbel3.jpg) | [Tool_10136](/ItemsIT/con_595/){: .btn .btn--era5} | Hero Avatar |  |
-  | 79 | ![Tool_21007](/images/t/i_907003.png) | [Tool_21007](/ItemsIT/con_608/){: .btn .btn--era5} | Avatar frame |  |
-  | 80 | ![Tool_21008](/images/t/i_907003.png) | [Tool_21008](/ItemsIT/con_609/){: .btn .btn--era5} | Avatar frame |  |
-  | 81 | ![Tool_21015](/images/t/i_907003.png) | [Tool_21015](/ItemsIT/con_616/){: .btn .btn--era5} | Avatar frame |  |
-  | 82 | ![Tool_21016](/images/t/i_907003.png) | [Tool_21016](/ItemsIT/con_617/){: .btn .btn--era5} | Avatar frame |  |
-  | 83 | ![Tool_21022](/images/t/i_907003.png) | [Tool_21022](/ItemsIT/con_623/){: .btn .btn--era5} | Avatar frame |  |
-  | 84 | ![Tool_21024](/images/t/i_907003.png) | [Tool_21024](/ItemsIT/con_625/){: .btn .btn--era5} | Avatar frame |  |
-  | 85 | ![Tool_21027](/images/t/i_907003.png) | [Tool_21027](/ItemsIT/con_628/){: .btn .btn--era5} | Avatar frame |  |
-  | 86 | ![Tool_21035](/images/t/i_907003.png) | [Tool_21035](/ItemsIT/con_632/){: .btn .btn--era5} | Avatar frame |  |
-  | 87 | ![Volo del drago - Avatar Cassanbel](/images/h/h_Cassanbel3.jpg) | [Volo del drago - Avatar Cassanbel](/ItemsIT/con_870/){: .btn .btn--era5} | Hero Avatar |  |
+  | 24 |  | [Avatar Progenie velenosa](/it/Items/con_2152/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Progenie velenosa. |
+  | 25 | ![Avatar Rashka](/images/h/h_Rashka1.jpg) | [Avatar Rashka](/ItemsIT/con_572/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Rashka |
+  | 26 | ![Avatar Sandro (umano)](/images/h/h_HumanSandro1.jpg) | [Avatar Sandro (umano)](/ItemsIT/con_579/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Sandro (umano) |
+  | 27 | ![Avatar Sephinroth](/images/h/h_Sephinroth1.jpg) | [Avatar Sephinroth](/ItemsIT/con_578/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Sephinroth |
+  | 28 | ![Avatar Shiva](/images/h/h_Shiwa.jpg) | [Avatar Shiva](/ItemsIT/con_1007/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Shiva |
+  | 29 | ![Avatar Squadra di esploratori](/images/h/h_Gelu5.jpg) | [Avatar Squadra di esploratori](/ItemsIT/con_570/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere la skin e l'avatar Squadra di esploratori per Gelu |
+  | 30 | ![Avatar Strega malvagia](/images/u/ti_xiemonvyuanhuatouxiang.jpg) | [Avatar Strega malvagia](/ItemsIT/con_599/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Strega malvagia. |
+  | 31 | ![Avatar Tiranno della Cenere](/images/h/h_Rashka3.jpg) | [Avatar Tiranno della Cenere](/ItemsIT/con_568/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere la skin e l'avatar Tiranno della Cenere per Rashka |
+  | 32 | ![Avatar Troll](/images/u/ti_suoerjurenyuanhuatouxiang.jpg) | [Avatar Troll](/ItemsIT/con_598/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Troll. |
+  | 33 | ![Avatar Veggente di Regna](/images/u/ti_haihouyuanhuatouxiang.jpg) | [Avatar Veggente di Regna](/ItemsIT/con_2117/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Veggente di Regna. |
+  | 34 | ![Avatar Volo del drago, balzo del leone](/images/h/h_Gem4.jpg) | [Avatar Volo del drago, balzo del leone](/ItemsIT/con_873/){: .btn .btn--era5} | Hero Avatar |  |
+  | 35 | ![Avatar Wystan](/images/h/h_Wystan1.jpg) | [Avatar Wystan](/ItemsIT/con_582/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Wystan |
+  | 36 | ![Avatar Yog](/images/h/h_Yog1.jpg) | [Avatar Yog](/ItemsIT/con_574/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Yog |
+  | 37 | ![Avatar bozzetto Antico mostro marino](/images/u/ti_haiguai1.jpg) | [Avatar bozzetto Antico mostro marino](/ItemsIT/con_1103/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Effetti speciali Antico mostro marino. |
+  | 38 | ![Avatar bozzetto Elementale delle maree](/images/u/ti_hailing1.jpg) | [Avatar bozzetto Elementale delle maree](/ItemsIT/con_1099/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Effetti speciali Elementale delle maree. |
+  | 39 | ![Avatar bozzetto Re dei Pirati](/images/u/ti_haidao1.jpg) | [Avatar bozzetto Re dei Pirati](/ItemsIT/con_1101/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Effetti speciali Re dei Pirati. |
+  | 40 | ![Balzo del leone - Avatar Gem](/images/h/h_Gem5.jpg) | [Balzo del leone - Avatar Gem](/ItemsIT/con_874/){: .btn .btn--era5} | Hero Avatar |  |
+  | 41 | ![Elfo di Natale](/images/h/h_MutareDrake5.jpg) | [Elfo di Natale](/ItemsIT/con_591/){: .btn .btn--era5} | Hero Avatar | Elfo natalizio che gioca con la neve |
+  | 42 | ![Pacchetto Commentatori popolari](/images/t/i_907003.png) | [Pacchetto Commentatori popolari](/ItemsIT/con_615/){: .btn .btn--era5} | Avatar frame | Ricompense evento Commentatori popolari. Apri per ricevere una cornice avatar. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
+  | 43 | ![Pacchetto cornice avatar Bianco Natale](/images/a/avatarFrame_48.png) | [Pacchetto cornice avatar Bianco Natale](/ItemsIT/con_640/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Gelido Natale. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
+  | 44 | ![Pacchetto cornice avatar Dominatore del cielo](/images/a/avatarFrame_41.png) | [Pacchetto cornice avatar Dominatore del cielo](/ItemsIT/con_637/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Dominatore del cielo. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
+  | 45 | ![Pacchetto cornice avatar Dominatore del gelo](/images/a/avatarFrame_38.png) | [Pacchetto cornice avatar Dominatore del gelo](/ItemsIT/con_634/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Dominatore del gelo. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
+  | 46 | ![Pacchetto cornice avatar Dominatore del vuoto](/images/a/avatarFrame_42.png) | [Pacchetto cornice avatar Dominatore del vuoto](/ItemsIT/con_638/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Dominatore del vuoto. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
+  | 47 | ![Pacchetto cornice avatar Dominatore della terra](/images/a/avatarFrame_40.png) | [Pacchetto cornice avatar Dominatore della terra](/ItemsIT/con_636/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Dominatore della terra. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
+  | 48 | ![Pacchetto cornice avatar Dominatore delle fiamme](/images/a/avatarFrame_39.png) | [Pacchetto cornice avatar Dominatore delle fiamme](/ItemsIT/con_635/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Dominatore delle fiamme. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
+  | 49 | ![Pacchetto cornice avatar Maestro di magie](/images/a/avatarFrame_37.png) | [Pacchetto cornice avatar Maestro di magie](/ItemsIT/con_633/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Maestro di magie. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
+  | 50 | ![Pacchetto cornice avatar Messaggero celeste](/images/a/avatarFrame_43.png) | [Pacchetto cornice avatar Messaggero celeste](/ItemsIT/con_639/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Messaggero celestiale. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
+  | 51 | ![Pacchetto cornice avatar Viveur](/images/t/i_907003.png) | [Pacchetto cornice avatar Viveur](/ItemsIT/con_631/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Viveur. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
+  | 52 | ![Pacchetto regalo Comandante letale](/images/t/i_907003.png) | [Pacchetto regalo Comandante letale](/ItemsIT/con_622/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Comandante letale. Sbloccando questa cornice riceverai 30 Diamanti. |
+  | 53 | ![Pacchetto regalo Comandante tattico](/images/t/i_907003.png) | [Pacchetto regalo Comandante tattico](/ItemsIT/con_621/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Comandante tattico. Sbloccando questa cornice riceverai 30 Diamanti. |
+  | 54 | ![Pacchetto regalo cornice avatar Amore di ghiaccio e fuoco](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Amore di ghiaccio e fuoco](/ItemsIT/con_629/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Amore di ghiaccio e fuoco. Sbloccando questa cornice riceverai 30 Diamanti. |
+  | 55 | ![Pacchetto regalo cornice avatar Atleta](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Atleta](/ItemsIT/con_603/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Atleta! |
+  | 56 | ![Pacchetto regalo cornice avatar Baluardo](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Baluardo](/ItemsIT/con_613/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Baluardo! |
+  | 57 | ![Pacchetto regalo cornice avatar Castello](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Castello](/ItemsIT/con_612/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Castello! |
+  | 58 | ![Pacchetto regalo cornice avatar Collezionista di tesori](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Collezionista di tesori](/ItemsIT/con_620/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Collezionista di tesori! |
+  | 59 | ![Pacchetto regalo cornice avatar Cuor di Grifone](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Cuor di Grifone](/ItemsIT/con_607/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Cuor di Grifone! |
+  | 60 | ![Pacchetto regalo cornice avatar Cuore di fuoco](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Cuore di fuoco](/ItemsIT/con_624/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Cuore di fuoco. Sbloccando questa cornice riceverai 30 Diamanti. |
+  | 61 | ![Pacchetto regalo cornice avatar Danza delle Lame](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Danza delle Lame](/ItemsIT/con_627/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Danza delle Lame. Sbloccando questa cornice riceverai 30 Diamanti. |
+  | 62 | ![Pacchetto regalo cornice avatar Furia della natura](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Furia della natura](/ItemsIT/con_630/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Furia della natura. Sbloccando questa cornice riceverai 30 Diamanti. |
+  | 63 | ![Pacchetto regalo cornice avatar Guerriero](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Guerriero](/ItemsIT/con_602/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Guerriero! |
+  | 64 | ![Pacchetto regalo cornice avatar Inferno](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Inferno](/ItemsIT/con_604/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Inferno! |
+  | 65 | ![Pacchetto regalo cornice avatar Maestro d'incantesimi](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Maestro d'incantesimi](/ItemsIT/con_611/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Maestro d'incantesimi! |
+  | 66 | ![Pacchetto regalo cornice avatar Necropoli](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Necropoli](/ItemsIT/con_614/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Necropoli! |
+  | 67 | ![Pacchetto regalo cornice avatar Nirvana della Fenice](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Nirvana della Fenice](/ItemsIT/con_618/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Nirvana della Fenice! |
+  | 68 | ![Pacchetto regalo cornice avatar Roccaforte](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Roccaforte](/ItemsIT/con_605/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Roccaforte! |
+  | 69 | ![Pacchetto regalo cornice avatar Segreti della Sfinge](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Segreti della Sfinge](/ItemsIT/con_626/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Segreti della Sfinge. Sbloccando questa cornice riceverai 30 Diamanti. |
+  | 70 | ![Pacchetto regalo cornice avatar Signore dei cieli](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Signore dei cieli](/ItemsIT/con_619/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Signore dei cieli! |
+  | 71 | ![Pacchetto regalo cornice avatar Signore della guerra](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Signore della guerra](/ItemsIT/con_610/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Signore della guerra! |
+  | 72 | ![Pacchetto regalo cornice avatar Torre](/images/t/i_907003.png) | [Pacchetto regalo cornice avatar Torre](/ItemsIT/con_606/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Torre! |
+  | 73 | ![Tiratore esperto](/images/u/ti_huanyingsheshounan.jpg) | [Tiratore esperto](/ItemsIT/con_564/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Tiratore esperto |
+  | 74 | ![Tiratrice esperta](/images/u/ti_huanyingsheshounv.jpg) | [Tiratrice esperta](/ItemsIT/con_565/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Tiratrice esperta |
+  | 75 | ![Tool_10130](/images/h/h_PeterLee.jpg) | [Tool_10130](/ItemsIT/con_589/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Peter Lee |
+  | 76 | ![Tool_10131](/images/h/h_Ciele5.jpg) | [Tool_10131](/ItemsIT/con_590/){: .btn .btn--era5} | Hero Avatar |  |
+  | 77 | ![Tool_10133](/images/h/h_Roland9.jpg) | [Tool_10133](/ItemsIT/con_592/){: .btn .btn--era5} | Hero Avatar |  |
+  | 78 | ![Tool_10135](/images/h/h_Gem5.jpg) | [Tool_10135](/ItemsIT/con_594/){: .btn .btn--era5} | Hero Avatar |  |
+  | 79 | ![Tool_10136](/images/h/h_Cassanbel3.jpg) | [Tool_10136](/ItemsIT/con_595/){: .btn .btn--era5} | Hero Avatar |  |
+  | 80 | ![Tool_21007](/images/t/i_907003.png) | [Tool_21007](/ItemsIT/con_608/){: .btn .btn--era5} | Avatar frame |  |
+  | 81 | ![Tool_21008](/images/t/i_907003.png) | [Tool_21008](/ItemsIT/con_609/){: .btn .btn--era5} | Avatar frame |  |
+  | 82 | ![Tool_21015](/images/t/i_907003.png) | [Tool_21015](/ItemsIT/con_616/){: .btn .btn--era5} | Avatar frame |  |
+  | 83 | ![Tool_21016](/images/t/i_907003.png) | [Tool_21016](/ItemsIT/con_617/){: .btn .btn--era5} | Avatar frame |  |
+  | 84 | ![Tool_21022](/images/t/i_907003.png) | [Tool_21022](/ItemsIT/con_623/){: .btn .btn--era5} | Avatar frame |  |
+  | 85 | ![Tool_21024](/images/t/i_907003.png) | [Tool_21024](/ItemsIT/con_625/){: .btn .btn--era5} | Avatar frame |  |
+  | 86 | ![Tool_21027](/images/t/i_907003.png) | [Tool_21027](/ItemsIT/con_628/){: .btn .btn--era5} | Avatar frame |  |
+  | 87 | ![Tool_21035](/images/t/i_907003.png) | [Tool_21035](/ItemsIT/con_632/){: .btn .btn--era5} | Avatar frame |  |
+  | 88 | ![Volo del drago - Avatar Cassanbel](/images/h/h_Cassanbel3.jpg) | [Volo del drago - Avatar Cassanbel](/ItemsIT/con_870/){: .btn .btn--era5} | Hero Avatar |  |
