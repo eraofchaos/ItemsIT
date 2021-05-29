@@ -2,7 +2,7 @@
 title: "Item - Event related"
 permalink: /Events/
 excerpt: "Event related in Era of Chaos"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Event related.md"
 toc: false
@@ -221,35 +221,36 @@ classes: wide
   | 207 | ![Tartaruga draconica con guscio meccanico](/images/t/i_81512231.png) | [Tartaruga draconica con guscio meccanico](/ItemsIT/con_1187/){: .btn .btn--era3} | Event related | \"Salve! Sono la Tartaruga draconica meccanica. Come puoi vedere, il mio guscio è realizzato in ferro battuto per il 30%.\" |
   | 208 | ![Tessuto antifreddo](/images/t/i_10016.png) | [Tessuto antifreddo](/ItemsIT/con_530/){: .btn .btn--era4} | Event related | Un tessuto speciale derivato dalla pelliccia di una creatura del nord. La comodità e l'eccellente resistenza al freddo ne giustificano il prezzo assai elevato. |
   | 209 | ![Token Ruota natalizia](/images/t/i_690013.png) | [Token Ruota natalizia](/ItemsIT/con_1087/){: .btn .btn--era4} | Event related | Richiesto per girare la Ruota natalizia a tempo limitato. |
-  | 210 | ![Tool_10001](/images/t/i_10001.png) | [Tool_10001](/ItemsIT/con_511/){: .btn .btn--era4} | Event related | Oggetti esclusivi dell'evento di Capodanno. Puoi scambiarli con oggetti rari negli eventi corrispondenti! |
-  | 211 | ![Tool_10008](/images/t/i_10008.png) | [Tool_10008](/ItemsIT/con_517/){: .btn .btn--era4} | Event related | Si può scambiare con oggetti rari negli eventi corrispondenti. Buon divertimento! |
-  | 212 | ![Tool_10009](/images/t/i_10009.png) | [Tool_10009](/ItemsIT/con_518/){: .btn .btn--era4} | Event related | Si può scambiare con oggetti rari negli eventi corrispondenti. Buon divertimento! |
-  | 213 | ![Tool_10010](/images/t/i_10010.png) | [Tool_10010](/ItemsIT/con_524/){: .btn .btn--era4} | Event related |  |
-  | 214 | ![Tool_10011](/images/t/i_10011.png) | [Tool_10011](/ItemsIT/con_525/){: .btn .btn--era4} | Event related |  |
-  | 215 | ![Tool_10012](/images/t/i_10012.png) | [Tool_10012](/ItemsIT/con_526/){: .btn .btn--era4} | Event related |  |
-  | 216 | ![Tool_10014](/images/t/i_10014.png) | [Tool_10014](/ItemsIT/con_528/){: .btn .btn--era4} | Event related | Si può scambiare con oggetti rari negli eventi corrispondenti. Buon divertimento! |
-  | 217 | ![Tool_3064](/images/t/i_3064.png) | [Tool_3064](/ItemsIT/con_806/){: .btn .btn--era4} | Event related |  |
-  | 218 |  | [Tool_31045](/ItemsIT/con_866/){: .btn .btn--era5} | Event related | Si dice che trovare tutti i simboli misteriosi delle terre straniere possa indicare la via verso un incredibile tesoro! |
-  | 219 | ![Tool_93601](/images/t/juexing_601.jpg) | [Tool_93601](/ItemsIT/con_2050/){: .btn .btn--era5} | Event related |  |
-  | 220 | ![Tool_93602](/images/t/juexing_602.jpg) | [Tool_93602](/ItemsIT/con_2051/){: .btn .btn--era5} | Event related |  |
-  | 221 | ![Tool_93608](/images/t/juexing_608.jpg) | [Tool_93608](/ItemsIT/con_2057/){: .btn .btn--era5} | Event related |  |
-  | 222 | ![Tool_93708](/images/t/juexing_708.jpg) | [Tool_93708](/ItemsIT/con_2065/){: .btn .btn--era5} | Event related |  |
-  | 223 | ![Tool_93804](/images/t/juexing_804.jpg) | [Tool_93804](/ItemsIT/con_2068/){: .btn .btn--era5} | Event related |  |
-  | 224 | ![Tool_939901](/images/t/juexing_9901.jpg) | [Tool_939901](/ItemsIT/con_2080/){: .btn .btn--era5} | Event related |  |
-  | 225 | ![Tool_939902](/images/t/juexing_9902.png) | [Tool_939902](/ItemsIT/con_2081/){: .btn .btn--era5} | Event related |  |
-  | 226 | ![Tool_939904](/images/t/juexing_9904.jpg) | [Tool_939904](/ItemsIT/con_2082/){: .btn .btn--era5} | Event related |  |
-  | 227 | ![Tool_939905](/images/t/juexing_9905.jpg) | [Tool_939905](/ItemsIT/con_2083/){: .btn .btn--era5} | Event related |  |
-  | 228 | ![Tool_939906](/images/t/juexing_9906.jpg) | [Tool_939906](/ItemsIT/con_2084/){: .btn .btn--era5} | Event related |  |
-  | 229 | ![Tool_939909](/images/t/juexing_9909.jpg) | [Tool_939909](/ItemsIT/con_2086/){: .btn .btn--era5} | Event related |  |
-  | 230 | ![Trifoglio](/images/t/i_10023.png) | [Trifoglio](/ItemsIT/con_537/){: .btn .btn--era4} | Event related | Le sue quattro foglie rappresentano rispettivamente: fama, ricchezza, amore e salute. |
-  | 231 | ![Vaso d'argilla della contea di Gao](/images/t/i_81511231.png) | [Vaso d'argilla della contea di Gao](/ItemsIT/con_1178/){: .btn .btn--era3} | Event related | Questo vaso in ceramica è creato a partire dalla particolare terra reperibile solo nella contea di Gao e contiene un assortimento di micronutrienti benefici per il corpo umano. I piatti cucinati in questi vasi speciali risultano più freschi e croccanti. Purtroppo, però, gli ingredienti non sono stati cotti a sufficienza. |
-  | 232 | ![Vassoio di carne](/images/t/i_8150011.png) | [Vassoio di carne](/ItemsIT/con_1161/){: .btn .btn--era4} | Event related | Un grande vassoio con un assortimento di carne. |
-  | 233 | ![Vassoio di frutti di mare](/images/t/i_8150013.png) | [Vassoio di frutti di mare](/ItemsIT/con_1163/){: .btn .btn--era4} | Event related | Un grande vassoio con un assortimento di frutti di mare. |
-  | 234 | ![Vassoio di verdure](/images/t/i_8150012.png) | [Vassoio di verdure](/ItemsIT/con_1162/){: .btn .btn--era4} | Event related | Un grande vassoio con un assortimento di verdure. |
-  | 235 | ![Zucca candita](/images/t/i_690012.png) | [Zucca candita](/ItemsIT/con_1086/){: .btn .btn--era4} | Event related | Un dolcetto di Halloween disponibile per un tempo limitato. Nella Capitale vive un'Anima che ne va particolarmente ghiotta... |
-  | 236 | ![Zuppa acida di pesce del Guizhou](/images/t/i_81533331.png) | [Zuppa acida di pesce del Guizhou](/ItemsIT/con_1253/){: .btn .btn--era3} | Event related | Pomodori selvatici, peperoncini rossi, vino bianco, zenzero e aglio vengono lasciati fermentare per due settimane fino a ottenere una zuppa acida rossastra. Nella zuppa viene poi fatto cuocere il pesce fresco già eviscerato, ottenendo un sapore tonificante. Purtroppo, però, gli ingredienti non sono stati cotti a sufficienza. |
-  | 237 | ![Zuppa di montone di Jianyang](/images/t/i_81511131.png) | [Zuppa di montone di Jianyang](/ItemsIT/con_1172/){: .btn .btn--era3} | Event related | Gli abitanti di Jianyang, nella provincia di Sichuan, preparano questo piatto cuocendo la carne in un brodo di ossa di montone e carpa. Come afferma un proverbio cinese, la combinazione di carne e montone è fresca e saporita. Purtroppo, però, gli ingredienti non sono stati cotti a sufficienza. |
-  | 238 | ![Zuppa di piedino di maiale dello Yunnan](/images/t/i_81531111.png) | [Zuppa di piedino di maiale dello Yunnan](/ItemsIT/con_1226/){: .btn .btn--era3} | Event related | I piedini di maiale, ricchi di collagene e delicati al gusto, vengono stufati lentamente in una deliziosa zuppa agrodolce, che deve il proprio sapore unico a una ricetta segreta. Una prelibatezza tanto rara quanto gustosa. Purtroppo, però, gli ingredienti non sono stati cotti a sufficienza. |
-  | 239 | ![Zuppa stufata di Macao](/images/t/i_81513331.png) | [Zuppa stufata di Macao](/ItemsIT/con_1193/){: .btn .btn--era3} | Event related | La base di questa ricetta consiste di una deliziosa zuppa ottenuta bollendo orecchie di mare, vesciche natatorie e cetrioli marini per svariate ore. Una piccola pentola racchiude in sé il fresco e inconfondibile aroma dell'oceano. Purtroppo, però, gli ingredienti non sono stati cotti a sufficienza. |
-  | 240 |  | [dei](/ItemsIT/con_864/){: .btn .btn--era5} | Event related | Si dice che trovare tutti i simboli misteriosi delle terre straniere possa indicare la via verso un incredibile tesoro! |
-  | 241 |  | [grandi classici](/ItemsIT/con_865/){: .btn .btn--era5} | Event related | Si dice che trovare tutti i simboli misteriosi delle terre straniere possa indicare la via verso un incredibile tesoro! |
+  | 210 |  | [Token della Grazia suprema](/it/Items/con_2153/){: .btn .btn--era5} | Event related | Raccogline 100 per ottenere 1 ricompensa a tua scelta tra le seguenti: 80 anime per unità SSR, 80 scrigni Pietre mistiche SSR a scelta, 1 scrigno Componenti Manufatto premium, 100 biglietti per la riscossione di Emblemi sacri o 200 Mithril del vuoto. |
+  | 211 | ![Tool_10001](/images/t/i_10001.png) | [Tool_10001](/ItemsIT/con_511/){: .btn .btn--era4} | Event related | Oggetti esclusivi dell'evento di Capodanno. Puoi scambiarli con oggetti rari negli eventi corrispondenti! |
+  | 212 | ![Tool_10008](/images/t/i_10008.png) | [Tool_10008](/ItemsIT/con_517/){: .btn .btn--era4} | Event related | Si può scambiare con oggetti rari negli eventi corrispondenti. Buon divertimento! |
+  | 213 | ![Tool_10009](/images/t/i_10009.png) | [Tool_10009](/ItemsIT/con_518/){: .btn .btn--era4} | Event related | Si può scambiare con oggetti rari negli eventi corrispondenti. Buon divertimento! |
+  | 214 | ![Tool_10010](/images/t/i_10010.png) | [Tool_10010](/ItemsIT/con_524/){: .btn .btn--era4} | Event related |  |
+  | 215 | ![Tool_10011](/images/t/i_10011.png) | [Tool_10011](/ItemsIT/con_525/){: .btn .btn--era4} | Event related |  |
+  | 216 | ![Tool_10012](/images/t/i_10012.png) | [Tool_10012](/ItemsIT/con_526/){: .btn .btn--era4} | Event related |  |
+  | 217 | ![Tool_10014](/images/t/i_10014.png) | [Tool_10014](/ItemsIT/con_528/){: .btn .btn--era4} | Event related | Si può scambiare con oggetti rari negli eventi corrispondenti. Buon divertimento! |
+  | 218 | ![Tool_3064](/images/t/i_3064.png) | [Tool_3064](/ItemsIT/con_806/){: .btn .btn--era4} | Event related |  |
+  | 219 |  | [Tool_31045](/ItemsIT/con_866/){: .btn .btn--era5} | Event related | Si dice che trovare tutti i simboli misteriosi delle terre straniere possa indicare la via verso un incredibile tesoro! |
+  | 220 | ![Tool_93601](/images/t/juexing_601.jpg) | [Tool_93601](/ItemsIT/con_2050/){: .btn .btn--era5} | Event related |  |
+  | 221 | ![Tool_93602](/images/t/juexing_602.jpg) | [Tool_93602](/ItemsIT/con_2051/){: .btn .btn--era5} | Event related |  |
+  | 222 | ![Tool_93608](/images/t/juexing_608.jpg) | [Tool_93608](/ItemsIT/con_2057/){: .btn .btn--era5} | Event related |  |
+  | 223 | ![Tool_93708](/images/t/juexing_708.jpg) | [Tool_93708](/ItemsIT/con_2065/){: .btn .btn--era5} | Event related |  |
+  | 224 | ![Tool_93804](/images/t/juexing_804.jpg) | [Tool_93804](/ItemsIT/con_2068/){: .btn .btn--era5} | Event related |  |
+  | 225 | ![Tool_939901](/images/t/juexing_9901.jpg) | [Tool_939901](/ItemsIT/con_2080/){: .btn .btn--era5} | Event related |  |
+  | 226 | ![Tool_939902](/images/t/juexing_9902.png) | [Tool_939902](/ItemsIT/con_2081/){: .btn .btn--era5} | Event related |  |
+  | 227 | ![Tool_939904](/images/t/juexing_9904.jpg) | [Tool_939904](/ItemsIT/con_2082/){: .btn .btn--era5} | Event related |  |
+  | 228 | ![Tool_939905](/images/t/juexing_9905.jpg) | [Tool_939905](/ItemsIT/con_2083/){: .btn .btn--era5} | Event related |  |
+  | 229 | ![Tool_939906](/images/t/juexing_9906.jpg) | [Tool_939906](/ItemsIT/con_2084/){: .btn .btn--era5} | Event related |  |
+  | 230 | ![Tool_939909](/images/t/juexing_9909.jpg) | [Tool_939909](/ItemsIT/con_2086/){: .btn .btn--era5} | Event related |  |
+  | 231 | ![Trifoglio](/images/t/i_10023.png) | [Trifoglio](/ItemsIT/con_537/){: .btn .btn--era4} | Event related | Le sue quattro foglie rappresentano rispettivamente: fama, ricchezza, amore e salute. |
+  | 232 | ![Vaso d'argilla della contea di Gao](/images/t/i_81511231.png) | [Vaso d'argilla della contea di Gao](/ItemsIT/con_1178/){: .btn .btn--era3} | Event related | Questo vaso in ceramica è creato a partire dalla particolare terra reperibile solo nella contea di Gao e contiene un assortimento di micronutrienti benefici per il corpo umano. I piatti cucinati in questi vasi speciali risultano più freschi e croccanti. Purtroppo, però, gli ingredienti non sono stati cotti a sufficienza. |
+  | 233 | ![Vassoio di carne](/images/t/i_8150011.png) | [Vassoio di carne](/ItemsIT/con_1161/){: .btn .btn--era4} | Event related | Un grande vassoio con un assortimento di carne. |
+  | 234 | ![Vassoio di frutti di mare](/images/t/i_8150013.png) | [Vassoio di frutti di mare](/ItemsIT/con_1163/){: .btn .btn--era4} | Event related | Un grande vassoio con un assortimento di frutti di mare. |
+  | 235 | ![Vassoio di verdure](/images/t/i_8150012.png) | [Vassoio di verdure](/ItemsIT/con_1162/){: .btn .btn--era4} | Event related | Un grande vassoio con un assortimento di verdure. |
+  | 236 | ![Zucca candita](/images/t/i_690012.png) | [Zucca candita](/ItemsIT/con_1086/){: .btn .btn--era4} | Event related | Un dolcetto di Halloween disponibile per un tempo limitato. Nella Capitale vive un'Anima che ne va particolarmente ghiotta... |
+  | 237 | ![Zuppa acida di pesce del Guizhou](/images/t/i_81533331.png) | [Zuppa acida di pesce del Guizhou](/ItemsIT/con_1253/){: .btn .btn--era3} | Event related | Pomodori selvatici, peperoncini rossi, vino bianco, zenzero e aglio vengono lasciati fermentare per due settimane fino a ottenere una zuppa acida rossastra. Nella zuppa viene poi fatto cuocere il pesce fresco già eviscerato, ottenendo un sapore tonificante. Purtroppo, però, gli ingredienti non sono stati cotti a sufficienza. |
+  | 238 | ![Zuppa di montone di Jianyang](/images/t/i_81511131.png) | [Zuppa di montone di Jianyang](/ItemsIT/con_1172/){: .btn .btn--era3} | Event related | Gli abitanti di Jianyang, nella provincia di Sichuan, preparano questo piatto cuocendo la carne in un brodo di ossa di montone e carpa. Come afferma un proverbio cinese, la combinazione di carne e montone è fresca e saporita. Purtroppo, però, gli ingredienti non sono stati cotti a sufficienza. |
+  | 239 | ![Zuppa di piedino di maiale dello Yunnan](/images/t/i_81531111.png) | [Zuppa di piedino di maiale dello Yunnan](/ItemsIT/con_1226/){: .btn .btn--era3} | Event related | I piedini di maiale, ricchi di collagene e delicati al gusto, vengono stufati lentamente in una deliziosa zuppa agrodolce, che deve il proprio sapore unico a una ricetta segreta. Una prelibatezza tanto rara quanto gustosa. Purtroppo, però, gli ingredienti non sono stati cotti a sufficienza. |
+  | 240 | ![Zuppa stufata di Macao](/images/t/i_81513331.png) | [Zuppa stufata di Macao](/ItemsIT/con_1193/){: .btn .btn--era3} | Event related | La base di questa ricetta consiste di una deliziosa zuppa ottenuta bollendo orecchie di mare, vesciche natatorie e cetrioli marini per svariate ore. Una piccola pentola racchiude in sé il fresco e inconfondibile aroma dell'oceano. Purtroppo, però, gli ingredienti non sono stati cotti a sufficienza. |
+  | 241 |  | [dei](/ItemsIT/con_864/){: .btn .btn--era5} | Event related | Si dice che trovare tutti i simboli misteriosi delle terre straniere possa indicare la via verso un incredibile tesoro! |
+  | 242 |  | [grandi classici](/ItemsIT/con_865/){: .btn .btn--era5} | Event related | Si dice che trovare tutti i simboli misteriosi delle terre straniere possa indicare la via verso un incredibile tesoro! |

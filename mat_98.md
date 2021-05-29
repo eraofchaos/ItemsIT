@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio splendente +5"
 permalink: /mat_98/
 excerpt: "Era of Chaos  Mercurio splendente +5"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "mat_98.md"
 toc: false
