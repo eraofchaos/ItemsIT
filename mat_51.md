@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemme epiche +2"
 permalink: /mat_51/
 excerpt: "Era of Chaos  Gemme epiche +2"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "mat_51.md"
 toc: false
