@@ -2,7 +2,7 @@
 title: "Item - Materials - Zolfo mitico"
 permalink: /mat_64/
 excerpt: "Era of Chaos  Zolfo mitico"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "mat_64.md"
 toc: false

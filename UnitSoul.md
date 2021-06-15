@@ -2,7 +2,7 @@
 title: "Item - Unit Soul"
 permalink: /UnitSoul/
 excerpt: "Unit Soul in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Unit Soul.md"
 toc: false
@@ -84,18 +84,18 @@ classes: wide
   | 70 | ![Pegaso](/images/u/ti_feima.jpg) | [Pegaso](/ItemsIT/unt_202/){: .btn .btn--era4} | Unit Soul | Una volta raccolti 30 token dell'anima, potrai evocare un Pegaso, un'unità di rarità SR. |
   | 71 | ![Picchiere](/images/u/ti_jibing.jpg) | [Picchiere](/ItemsIT/unt_190/){: .btn .btn--era3} | Unit Soul | Una volta raccolti 10 token dell'anima, potrai evocare un Picchiere, un'unità di rarità R. |
   | 72 | ![Pirati di Regna](/images/u/ti_haidao.jpg) | [Pirati di Regna](/ItemsIT/unt_273/){: .btn .btn--era4} | Unit Soul | Una volta raccolti 30 token dell'anima, potrai evocare i Pirati di Regna. È inoltre possibile usare i token per potenziare o aumentare il rango dei Pirati di Regna. |
-  | 73 | ![Rapace di fuoco](/images/u/ti_fenghuang.jpg) | [Rapace di fuoco](/ItemsIT/unt_268/){: .btn .btn--era4} | Unit Soul | Una volta raccolti 80 token dell'anima, potrai evocare un Rapace di fuoco. È inoltre possibile usare i token per potenziare o aumentare il rango dei Rapaci di fuoco. |
-  | 74 | ![Roc](/images/u/ti_leiniao.jpg) | [Roc](/ItemsIT/unt_221/){: .btn .btn--era4} | Unit Soul | Una volta raccolti 30 token dell'anima, potrai evocare un Roc, un'unità di rarità SR. |
-  | 75 | ![Scheletro](/images/u/ti_kulouzhanshi.jpg) | [Scheletro](/ItemsIT/unt_208/){: .btn .btn--era3} | Unit Soul | Una volta raccolti 10 token dell'anima, potrai evocare uno Scheletro, un'unità di rarità R. |
-  | 76 | ![Segugio infernale](/images/u/ti_santouquan.jpg) | [Segugio infernale](/ItemsIT/unt_228/){: .btn .btn--era4} | Unit Soul | Una volta raccolti 30 token dell'anima, potrai evocare un Segugio infernale, un'unità di rarità SR. |
-  | 77 | ![Serpente di Regna](/images/u/ti_yurenyongshi.jpg) | [Serpente di Regna](/ItemsIT/unt_276/){: .btn .btn--era4} | Unit Soul | Una volta raccolti 80 token dell'anima, potrai evocare un Serpente di Regna. È inoltre possibile usare i token per potenziare o aumentare il rango dei Serpenti di Regna. |
-  | 78 | ![Sirena](/images/u/ti_meirenyu.jpg) | [Sirena](/ItemsIT/unt_277/){: .btn .btn--era4} | Unit Soul | Una volta raccolti 80 token dell'anima, potrai evocare una Sirena. È inoltre possibile usare i token per potenziare o aumentare il rango delle Sirene. |
-  | 79 | ![Spadaccino](/images/u/ti_shizijun.jpg) | [Spadaccino](/ItemsIT/unt_193/){: .btn .btn--era4} | Unit Soul | Una volta raccolti 30 token dell'anima, potrai evocare uno Spadaccino, un'unità di rarità SR. |
-  | 80 | ![Strega malvagia](/images/u/ti_xiemonv.jpg) | [Strega malvagia](/ItemsIT/unt_252/){: .btn .btn--era6} | Unit Soul | Una volta raccolti 80 token dell'anima, potrai evocare una Strega malvagia. È inoltre possibile usare i token per aumentare il rango della Strega malvagia. |
-  | 81 | ![Tartaruga draconica](/images/u/ti_longgui.jpg) | [Tartaruga draconica](/ItemsIT/unt_278/){: .btn .btn--era5} | Unit Soul | Una volta raccolti 80 token dell'anima, potrai evocare una Tartaruga draconica. È inoltre possibile usare i token per potenziare o aumentare il rango delle Tartarughe draconiche. |
-  | 82 | ![Tiratore scelto](/images/u/ti_nushou.jpg) | [Tiratore scelto](/ItemsIT/unt_191/){: .btn .btn--era3} | Unit Soul | Una volta raccolti 10 token dell'anima, potrai evocare un Tiratore scelto, un'unità di rarità R. |
-  | 83 | ![Tool_3209](/images/u/ti_tanglang.jpg) | [Tool_3209](/ItemsIT/unt_207/){: .btn .btn--era6} | Unit Soul |  |
-  | 84 | ![Tool_3509](/images/u/ti_yanmo.jpg) | [Tool_3509](/ItemsIT/unt_234/){: .btn .btn--era6} | Unit Soul |  |
+  | 73 | ![Progenie velenosa](/images/u/ti_yanmo.jpg) | [Progenie velenosa](/ItemsIT/unt_234/){: .btn .btn--era6} | Unit Soul | Una volta raccolti 80 token dell'anima, potrai evocare un Progenie velenosa, un'unità Comandante. |
+  | 74 | ![Rapace di fuoco](/images/u/ti_fenghuang.jpg) | [Rapace di fuoco](/ItemsIT/unt_268/){: .btn .btn--era4} | Unit Soul | Una volta raccolti 80 token dell'anima, potrai evocare un Rapace di fuoco. È inoltre possibile usare i token per potenziare o aumentare il rango dei Rapaci di fuoco. |
+  | 75 | ![Roc](/images/u/ti_leiniao.jpg) | [Roc](/ItemsIT/unt_221/){: .btn .btn--era4} | Unit Soul | Una volta raccolti 30 token dell'anima, potrai evocare un Roc, un'unità di rarità SR. |
+  | 76 | ![Scheletro](/images/u/ti_kulouzhanshi.jpg) | [Scheletro](/ItemsIT/unt_208/){: .btn .btn--era3} | Unit Soul | Una volta raccolti 10 token dell'anima, potrai evocare uno Scheletro, un'unità di rarità R. |
+  | 77 | ![Segugio infernale](/images/u/ti_santouquan.jpg) | [Segugio infernale](/ItemsIT/unt_228/){: .btn .btn--era4} | Unit Soul | Una volta raccolti 30 token dell'anima, potrai evocare un Segugio infernale, un'unità di rarità SR. |
+  | 78 | ![Serpente di Regna](/images/u/ti_yurenyongshi.jpg) | [Serpente di Regna](/ItemsIT/unt_276/){: .btn .btn--era4} | Unit Soul | Una volta raccolti 80 token dell'anima, potrai evocare un Serpente di Regna. È inoltre possibile usare i token per potenziare o aumentare il rango dei Serpenti di Regna. |
+  | 79 | ![Sirena](/images/u/ti_meirenyu.jpg) | [Sirena](/ItemsIT/unt_277/){: .btn .btn--era4} | Unit Soul | Una volta raccolti 80 token dell'anima, potrai evocare una Sirena. È inoltre possibile usare i token per potenziare o aumentare il rango delle Sirene. |
+  | 80 | ![Spadaccino](/images/u/ti_shizijun.jpg) | [Spadaccino](/ItemsIT/unt_193/){: .btn .btn--era4} | Unit Soul | Una volta raccolti 30 token dell'anima, potrai evocare uno Spadaccino, un'unità di rarità SR. |
+  | 81 | ![Strega malvagia](/images/u/ti_xiemonv.jpg) | [Strega malvagia](/ItemsIT/unt_252/){: .btn .btn--era6} | Unit Soul | Una volta raccolti 80 token dell'anima, potrai evocare una Strega malvagia. È inoltre possibile usare i token per aumentare il rango della Strega malvagia. |
+  | 82 | ![Tartaruga draconica](/images/u/ti_longgui.jpg) | [Tartaruga draconica](/ItemsIT/unt_278/){: .btn .btn--era5} | Unit Soul | Una volta raccolti 80 token dell'anima, potrai evocare una Tartaruga draconica. È inoltre possibile usare i token per potenziare o aumentare il rango delle Tartarughe draconiche. |
+  | 83 | ![Tiratore scelto](/images/u/ti_nushou.jpg) | [Tiratore scelto](/ItemsIT/unt_191/){: .btn .btn--era3} | Unit Soul | Una volta raccolti 10 token dell'anima, potrai evocare un Tiratore scelto, un'unità di rarità R. |
+  | 84 | ![Tool_3209](/images/u/ti_tanglang.jpg) | [Tool_3209](/ItemsIT/unt_207/){: .btn .btn--era6} | Unit Soul |  |
   | 85 | ![Tool_3809](/images/u/ti_baihu.jpg) | [Tool_3809](/ItemsIT/unt_261/){: .btn .btn--era6} | Unit Soul |  |
   | 86 | ![Troglodita](/images/u/ti_dongxueren.jpg) | [Troglodita](/ItemsIT/unt_244/){: .btn .btn--era3} | Unit Soul | Una volta raccolti 10 token dell'anima, potrai evocare un Troglodita. È inoltre possibile usare i token per potenziare o aumentare il rango dei Trogloditi. |
   | 87 | ![Troll](/images/u/ti_suoerjuren.jpg) | [Troll](/ItemsIT/unt_225/){: .btn .btn--era6} | Unit Soul | Una volta raccolti 80 token dell'anima, potrai evocare un Troll, un'unità Comandante. |
