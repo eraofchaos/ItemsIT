@@ -2,7 +2,7 @@
 title: "Item - Materials - Legname splendente +5"
 permalink: /mat_97/
 excerpt: "Era of Chaos  Legname splendente +5"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "mat_97.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Unit Soul"
 permalink: /UnitSoul/
 excerpt: "Unit Soul in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Unit Soul.md"
 toc: false
@@ -84,7 +84,7 @@ classes: wide
   | 70 | ![Pegaso](/images/u/ti_feima.jpg) | [Pegaso](/ItemsIT/unt_202/){: .btn .btn--era4} | Unit Soul | Una volta raccolti 30 token dell'anima, potrai evocare un Pegaso, un'unità di rarità SR. |
   | 71 | ![Picchiere](/images/u/ti_jibing.jpg) | [Picchiere](/ItemsIT/unt_190/){: .btn .btn--era3} | Unit Soul | Una volta raccolti 10 token dell'anima, potrai evocare un Picchiere, un'unità di rarità R. |
   | 72 | ![Pirati di Regna](/images/u/ti_haidao.jpg) | [Pirati di Regna](/ItemsIT/unt_273/){: .btn .btn--era4} | Unit Soul | Una volta raccolti 30 token dell'anima, potrai evocare i Pirati di Regna. È inoltre possibile usare i token per potenziare o aumentare il rango dei Pirati di Regna. |
-  | 73 | ![Progenie velenosa](/images/u/ti_yanmo.jpg) | [Progenie velenosa](/ItemsIT/unt_234/){: .btn .btn--era6} | Unit Soul | Una volta raccolti 80 token dell'anima, potrai evocare un Progenie velenosa, un'unità Comandante. |
+  | 73 | ![Progenie velenosa](/images/u/ti_yanmo.jpg) | [Progenie velenosa](/ItemsIT/unt_234/){: .btn .btn--era6} | Unit Soul | Una volta raccolti 80 token dell'anima, potrai evocare la Progenie velenosa. È inoltre possibile usare i token per potenziare o aumentare il rango della Progenie velenosa. |
   | 74 | ![Rapace di fuoco](/images/u/ti_fenghuang.jpg) | [Rapace di fuoco](/ItemsIT/unt_268/){: .btn .btn--era4} | Unit Soul | Una volta raccolti 80 token dell'anima, potrai evocare un Rapace di fuoco. È inoltre possibile usare i token per potenziare o aumentare il rango dei Rapaci di fuoco. |
   | 75 | ![Roc](/images/u/ti_leiniao.jpg) | [Roc](/ItemsIT/unt_221/){: .btn .btn--era4} | Unit Soul | Una volta raccolti 30 token dell'anima, potrai evocare un Roc, un'unità di rarità SR. |
   | 76 | ![Scheletro](/images/u/ti_kulouzhanshi.jpg) | [Scheletro](/ItemsIT/unt_208/){: .btn .btn--era3} | Unit Soul | Una volta raccolti 10 token dell'anima, potrai evocare uno Scheletro, un'unità di rarità R. |

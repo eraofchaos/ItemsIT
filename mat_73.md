@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristallo eterno +1"
 permalink: /mat_73/
 excerpt: "Era of Chaos  Cristallo eterno +1"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "mat_73.md"
 toc: false
@@ -23,8 +23,7 @@ classes: wide
 
 *    Avventura della Gilda 
 *    [Capitolo 21: Il Graal -> 21-6](/it/Main Story/Chapter 21_6/) 
-*    [Capitolo 21: Il Graal -> 21-12](/it/Main Story/Chapter 21_12/) 
-*    [Capitolo 21: Il Graal -> 21-15](/it/Main Story/Chapter 21_15/) 
+*    Avventura della Gilda 
 
 ## This item contains:
 

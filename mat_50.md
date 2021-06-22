@@ -2,7 +2,7 @@
 title: "Item - Materials - Zolfo epico +2"
 permalink: /mat_50/
 excerpt: "Era of Chaos  Zolfo epico +2"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "mat_50.md"
 toc: false

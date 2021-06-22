@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristallo prezioso +2"
 permalink: /mat_31/
 excerpt: "Era of Chaos  Cristallo prezioso +2"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "mat_31.md"
 toc: false

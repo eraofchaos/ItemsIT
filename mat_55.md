@@ -2,7 +2,7 @@
 title: "Item - Materials - Legname leggendario +3"
 permalink: /mat_55/
 excerpt: "Era of Chaos  Legname leggendario +3"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "mat_55.md"
 toc: false
