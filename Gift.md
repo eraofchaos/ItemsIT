@@ -2,7 +2,7 @@
 title: "Item - Gift"
 permalink: /Gift/
 excerpt: "Gift in Era of Chaos"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Gift.md"
 toc: false
@@ -71,7 +71,7 @@ classes: wide
   | 57 | ![Carta Energia](/images/t/i_907316.png) | [Carta Energia](/ItemsIT/con_1907/){: .btn .btn--era5} | Gift | Ogni giorno, per 7 giorni dopo l'acquisto, otterrai i seguenti oggetti: 60 Energia, 60 punti azione e 30 Diamanti. |
   | 58 | ![Carta Eroe](/images/t/i_907493.png) | [Carta Eroe](/ItemsIT/con_1912/){: .btn .btn--era5} | Gift | Ogni giorno, per 7 giorni dopo l'acquisto, otterrai i seguenti oggetti: 2 token (eroe) universali, 2 Pergamene del tempio antiche, 80 Pergamene degli incantesimi e 80 Diamanti. |
   | 59 | ![Carta Fortuna](/images/t/i_907315.png) | [Carta Fortuna](/ItemsIT/con_1906/){: .btn .btn--era5} | Gift | Ogni giorno, per 7 giorni dopo l'acquisto, otterrai i seguenti oggetti: 10 Diamanti e 10 Energia. |
-  | 60 | ![Carta Incantesimo](/images/t/i_907532.png) | [Carta Incantesimo](/ItemsIT/con_1909/){: .btn .btn--era5} | Gift | Ogni giorno, per 7 giorni dopo l'acquisto, otterrai i seguenti oggetti: 3 scrigni token Incantesimo arancione a scelta e 45 Diamanti. |
+  | 60 | ![Carta Incantesimo](/images/t/i_907532.png) | [Carta Incantesimo](/it/Items/con_2197/){: .btn .btn--era5} | Gift | Ogni giorno, per 7 giorni dopo l'acquisto, otterrai i seguenti oggetti: 3 scrigni token Incantesimo arancione a scelta e 45 Diamanti. |
   | 61 | ![Carta Manufatto](/images/t/i_907494.png) | [Carta Manufatto](/ItemsIT/con_1913/){: .btn .btn--era5} | Gift | Ogni giorno, per 7 giorni dopo l'acquisto, otterrai i seguenti oggetti: 2 Argento astrale, 100 Pietre celesti e 80 Diamanti. |
   | 62 | ![Carta Pietre runiche](/images/t/i_907315.png) | [Carta Pietre runiche](/ItemsIT/con_1865/){: .btn .btn--era5} | Gift |  |
   | 63 | ![Carta Reclutamento](/images/t/i_907319.png) | [Carta Reclutamento](/ItemsIT/con_1908/){: .btn .btn--era5} | Gift | Ogni giorno, per 7 giorni dopo l'acquisto, otterrai i seguenti oggetti: 1 chiave d'oro, 1 chiave d'argento e 40 Diamanti. |
@@ -686,4 +686,12 @@ classes: wide
   | 672 | ![Tool_907418](/images/t/i_907416.png) | [Tool_907418](/ItemsIT/con_1796/){: .btn .btn--era4} | Gift |  |
   | 673 | ![Tool_907419](/images/t/i_907417.png) | [Tool_907419](/ItemsIT/con_1797/){: .btn .btn--era4} | Gift |  |
   | 674 | ![Tool_907545](/images/t/i_907219.png) | [Tool_907545](/ItemsIT/con_1922/){: .btn .btn--era4} | Gift |  |
-  | 675 | ![Tool_990099](/images/t/i_114.png) | [Tool_990099](/ItemsIT/con_2099/){: .btn .btn--era4} | Gift |  |
+  | 675 |  | [Tool_907635](/it/Items/con_2190/){: .btn .btn--era5} | Gift |  |
+  | 676 |  | [Tool_907636](/it/Items/con_2191/){: .btn .btn--era5} | Gift |  |
+  | 677 |  | [Tool_907637](/it/Items/con_2192/){: .btn .btn--era5} | Gift |  |
+  | 678 |  | [Tool_907638](/it/Items/con_2193/){: .btn .btn--era5} | Gift |  |
+  | 679 | ![Tool_907639](/images/t/i_907316.png) | [Tool_907639](/it/Items/con_2194/){: .btn .btn--era5} | Gift |  |
+  | 680 |  | [Tool_907640](/it/Items/con_2195/){: .btn .btn--era5} | Gift |  |
+  | 681 |  | [Tool_907641](/it/Items/con_2196/){: .btn .btn--era5} | Gift |  |
+  | 682 | ![Tool_907643](/images/t/i_7012.png) | [Tool_907643](/it/Items/con_2198/){: .btn .btn--era5} | Gift |  |
+  | 683 | ![Tool_990099](/images/t/i_114.png) | [Tool_990099](/ItemsIT/con_2099/){: .btn .btn--era4} | Gift |  |
