@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerale mitico"
 permalink: /mat_61/
 excerpt: "Era of Chaos  Minerale mitico"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "mat_61.md"
 toc: false

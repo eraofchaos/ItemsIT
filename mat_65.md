@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemme mitiche"
 permalink: /mat_65/
 excerpt: "Era of Chaos  Gemme mitiche"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "mat_65.md"
 toc: false

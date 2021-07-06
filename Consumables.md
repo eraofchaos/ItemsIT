@@ -2,7 +2,7 @@
 title: "Item - Consumables"
 permalink: /Consumables/
 excerpt: "Consumables in Era of Chaos"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Consumables.md"
 toc: false
@@ -236,125 +236,127 @@ classes: wide
   | 222 |  | [Skin speciale Falce diabolica](/ItemsIT/con_652/){: .btn .btn--era5} | Special Skin | Sblocca la skin al risveglio di Falce diabolica. |
   | 223 |  | [Skin speciale Fiamma eterna](/ItemsIT/con_669/){: .btn .btn--era4} | Special Skin | Sblocca la skin al risveglio di Fiamma eterna. |
   | 224 |  | [Skin speciale Impavida](/ItemsIT/con_642/){: .btn .btn--era5} | Special Skin | Sblocca la skin al risveglio di: Impavida. |
-  | 225 |  | [Skin speciale Lama del sottosuolo](/ItemsIT/con_647/){: .btn .btn--era5} | Special Skin | Sblocca la skin al risveglio di Lama del sottosuolo. |
-  | 226 |  | [Skin speciale Lira](/ItemsIT/con_654/){: .btn .btn--era4} | Special Skin | Sblocca la skin al risveglio di: Lira. |
-  | 227 |  | [Skin speciale Maree diurne](/ItemsIT/con_671/){: .btn .btn--era4} | Special Skin | Sblocca la skin al risveglio di: Maree diurne. |
-  | 228 |  | [Skin speciale Maree notturne](/ItemsIT/con_672/){: .btn .btn--era4} | Special Skin | Sblocca la skin al risveglio di: Maree notturne. |
-  | 229 |  | [Skin speciale Nucleo di energia](/ItemsIT/con_667/){: .btn .btn--era4} | Special Skin | Sblocca la skin al risveglio di Nucleo di energia. |
-  | 230 |  | [Skin speciale Nucleo mistico](/ItemsIT/con_668/){: .btn .btn--era5} | Special Skin | Sblocca la skin al risveglio di: Nucleo mistico. |
-  | 231 |  | [Skin speciale Obbedienza](/ItemsIT/con_673/){: .btn .btn--era5} | Special Skin | Sblocca la skin al risveglio di: Obbedienza. |
-  | 232 |  | [Skin speciale Peso insostenibile](/ItemsIT/con_656/){: .btn .btn--era5} | Special Skin | Sblocca la skin al risveglio di: Peso insostenibile. |
-  | 233 |  | [Skin speciale Sguardo oscuro](/ItemsIT/con_658/){: .btn .btn--era4} | Special Skin | Sblocca la skin al risveglio di: Sguardo oscuro. |
-  | 234 |  | [Skin speciale Spada delle Naga](/ItemsIT/con_655/){: .btn .btn--era5} | Special Skin | Sblocca la skin al risveglio di Spada delle Naga. |
-  | 235 |  | [Skin speciale Spirito sanguinario](/ItemsIT/con_650/){: .btn .btn--era5} | Special Skin | Sblocca la skin al risveglio di: Spirito sanguinario. |
-  | 236 |  | [Skin speciale Squama del Drago nero](/ItemsIT/con_661/){: .btn .btn--era5} | Special Skin | Sblocca la skin al risveglio di Squama del Drago nero. |
-  | 237 |  | [Skin speciale Stella polare](/ItemsIT/con_657/){: .btn .btn--era4} | Special Skin | Sblocca la skin al risveglio di: Stella polare. |
-  | 238 |  | [Skin speciale Tributo di morte](/ItemsIT/con_646/){: .btn .btn--era4} | Special Skin | Sblocca la skin al risveglio di Tributo di morte. |
-  | 239 | ![Spada dell'Armageddon: Gelu](/images/h/h_Gelu4.jpg) | [Spada dell'Armageddon: Gelu](/ItemsIT/con_1037/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Spada dell'Armageddon per Gelu |
-  | 240 | ![Spada della primavera: skin Paladino](/images/u/ti_shengqishiqixi.jpg) | [Spada della primavera: skin Paladino](/ItemsIT/con_1975/){: .btn .btn--era5} | Unit Skin | Contiene la skin Spada della primavera per il Paladino. |
-  | 241 |  | [Spedizione globale: skin per Arciere di Regna](/it/Items/con_2149/){: .btn .btn--era5} | Unit Skin | Contiene la skin Spedizione globale per l'Arciere di Regna. |
-  | 242 | ![Squadra di esploratori: Gelu](/images/h/h_Gelu5.jpg) | [Squadra di esploratori: Gelu](/ItemsIT/con_1038/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Squadra di esploratori per Gelu |
-  | 243 |  | [Statua commemorativa](/ItemsIT/con_947/){: .btn .btn--era4} | Other | Usala per riscuotere i doni di Pasqua. |
-  | 244 |  | [Teletrasporto](/ItemsIT/con_944/){: .btn .btn--era4} | Other | Permette l'utilizzo del teletrasporto nell'evento Mare curativo. |
-  | 245 | ![Tesoro dell'Arena grande](/images/t/i_504.png) | [Tesoro dell'Arena grande](/ItemsIT/con_719/){: .btn .btn--era4} | EXP | Uno scrigno del tesoro contenente 60 Monete Arena! |
-  | 246 | ![Tesoro dell'Arena medio](/images/t/i_503.png) | [Tesoro dell'Arena medio](/ItemsIT/con_718/){: .btn .btn--era3} | EXP | Uno scrigno del tesoro contenente 30 Monete Arena! |
-  | 247 | ![Tesoro dell'Arena piccolo](/images/t/i_502.png) | [Tesoro dell'Arena piccolo](/ItemsIT/con_717/){: .btn .btn--era2} | EXP | Uno scrigno del tesoro contenente 6 Monete Arena! |
-  | 248 | ![Tesoro della Campagna grande](/images/t/i_503.png) | [Tesoro della Campagna grande](/ItemsIT/con_723/){: .btn .btn--era4} | EXP | Uno scrigno del tesoro contenente 60 Medaglie dell'impero! |
-  | 249 | ![Tesoro della Campagna medio](/images/t/i_506.png) | [Tesoro della Campagna medio](/ItemsIT/con_722/){: .btn .btn--era3} | EXP | Uno scrigno del tesoro contenente 30 Medaglie dell'impero! |
-  | 250 | ![Tesoro della Campagna piccolo](/images/t/i_505.png) | [Tesoro della Campagna piccolo](/ItemsIT/con_721/){: .btn .btn--era2} | EXP | Uno scrigno del tesoro contenente 6 Medaglie dell'impero! |
-  | 251 | ![Tessera mensile VIP](/images/t/i_supermonth.png) | [Tessera mensile VIP](/ItemsIT/con_883/){: .btn .btn--era5} | VIP related | Un oggetto misterioso capace di produrre ricchezza ininterrottamente. Solo i più fortunati potranno possederlo. |
-  | 252 | ![Tessera mensile base](/images/t/i_month.png) | [Tessera mensile base](/ItemsIT/con_884/){: .btn .btn--era4} | VIP related | Un oggetto misterioso capace di produrre ricchezza ininterrottamente. Solo i più fortunati potranno possederlo. |
-  | 253 | ![Tiranno della Cenere: Rashka](/images/h/h_Rashka3.jpg) | [Tiranno della Cenere: Rashka](/ItemsIT/con_1064/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Tiranno della Cenere per Rashka |
-  | 254 |  | [Token Ala di drago splendente](/ItemsIT/con_976/){: .btn .btn--era5} | Exclusive piece | Token di Ala di drago splendente da una campagna storica. Usalo per risvegliare il potere esclusivo del Drago verde: Ala di drago splendente. |
-  | 255 |  | [Token Arco di Medusa](/ItemsIT/con_991/){: .btn .btn--era4} | Exclusive piece | Token Arco di Medusa proveniente da una campagna storica. Usalo per risvegliare il potenziale di Medusa: Arco di Medusa. |
-  | 256 |  | [Token Arco lungo](/ItemsIT/con_914/){: .btn .btn--era4} | Exclusive piece | Token esclusivo da una campagna storica. Usalo per risvegliare il potenziale delle unità a distanza: Arco lungo. |
-  | 257 |  | [Token Ascia del Berserker](/ItemsIT/con_983/){: .btn .btn--era5} | Exclusive piece | Token di Ascia del Berserker da una campagna storica. Usalo per risvegliare il potere esclusivo del Berserker: Ascia del Berserker. |
-  | 258 |  | [Token Bastone della Ricrescita](/ItemsIT/con_977/){: .btn .btn--era4} | Exclusive piece | Token del Bastone della Ricrescita da una campagna storica. Usalo per risvegliare il potere esclusivo del Druido: Bastone della Ricrescita. |
-  | 259 |  | [Token Benda](/ItemsIT/con_981/){: .btn .btn--era4} | Exclusive piece | Token di una Benda da una campagna storica. Usalo per risvegliare il potere esclusivo della Mummia: Benda. |
-  | 260 |  | [Token Cantico arcano](/ItemsIT/con_915/){: .btn .btn--era4} | Exclusive piece | Token esclusivo da una campagna storica. Usalo per risvegliare il potenziale degli incantatori: Cantico arcano. |
-  | 261 |  | [Token Carica impetuosa](/ItemsIT/con_916/){: .btn .btn--era4} | Exclusive piece | Token esclusivo da una campagna storica. Usalo per risvegliare il potere delle unità d'incursione: Carica impetuosa. |
-  | 262 |  | [Token Coda di Basilisco](/ItemsIT/con_994/){: .btn .btn--era4} | Exclusive piece | Token di Coda di Basilisco da una campagna storica. Usalo per risvegliare il potere esclusivo del Basilisco: Coda del Basilisco. |
-  | 263 |  | [Token Coda di Viverna](/ItemsIT/con_996/){: .btn .btn--era4} | Exclusive piece | Token di Coda di Viverna da una campagna storica. Usalo per risvegliare il potere esclusivo della Viverna: Coda della Viverna. |
-  | 264 |  | [Token Coda di scorpione](/ItemsIT/con_992/){: .btn .btn--era4} | Exclusive piece | Token Coda di scorpione proveniente da una campagna storica. Usalo per risvegliare il potenziale della Manticora: Coda di scorpione. |
-  | 265 |  | [Token Corno di Gorgone](/ItemsIT/con_995/){: .btn .btn--era5} | Exclusive piece | Token di Corno di Gorgone da una campagna storica. Usalo per risvegliare il potere esclusivo della Gorgone: Corno di Gorgone. |
-  | 266 |  | [Token Drago scheletrico immortale](/ItemsIT/con_980/){: .btn .btn--era5} | Exclusive piece | Token Drago scheletrico immortale proveniente da una campagna storica. Usalo per risvegliare il potenziale del Drago scheletrico: Drago scheletrico immortale. |
-  | 267 |  | [Token Durlindana](/ItemsIT/con_973/){: .btn .btn--era5} | Exclusive piece | Token di Durlindana da una campagna storica. Usalo per risvegliare il potere esclusivo dell'Angelo: Durlindana. |
-  | 268 |  | [Token Energia del Fuoco](/ItemsIT/con_998/){: .btn .btn--era4} | Exclusive piece | Token Energia del Fuoco proveniente da una campagna storica. Usalo per risvegliare il potenziale dell'Elementale del fuoco: Energia del Fuoco. |
-  | 269 |  | [Token Falce diabolica](/ItemsIT/con_984/){: .btn .btn--era5} | Exclusive piece | Token Falce diabolica proveniente da una campagna storica. Usalo per risvegliare il potenziale del Diavolo: Falce diabolica. |
-  | 270 |  | [Token Fiamma eterna](/ItemsIT/con_1001/){: .btn .btn--era4} | Exclusive piece | Token Fiamma eterna proveniente da una campagna storica. Usalo per risvegliare il potenziale del Rapace di fuoco: Fiamma eterna. |
-  | 271 |  | [Token Impavida](/ItemsIT/con_974/){: .btn .btn--era5} | Exclusive piece | Token dell'Impavida da una campagna storica. Usalo per risvegliare il potere esclusivo del Paladino: Impavida. |
-  | 272 |  | [Token Lama del sottosuolo](/ItemsIT/con_979/){: .btn .btn--era5} | Exclusive piece | Token Lama del sottosuolo proveniente da una campagna storica. Usalo per risvegliare il potenziale del Cavaliere nero: Lama del sottosuolo. |
-  | 273 |  | [Token Lira](/ItemsIT/con_986/){: .btn .btn--era4} | Exclusive piece | Token di una Lira da una campagna storica. Usalo per risvegliare il potere esclusivo del Genio: Lira. |
-  | 274 |  | [Token Maree diurne](/ItemsIT/con_1003/){: .btn .btn--era4} | Exclusive piece | Token Maree diurne da una campagna storica. Usalo per risvegliare il potere esclusivo del Serpente di Regna: Maree diurne. |
-  | 275 |  | [Token Maree notturne](/ItemsIT/con_1004/){: .btn .btn--era4} | Exclusive piece | Token Maree notturne da una campagna storica. Usalo per risvegliare il potere esclusivo della Sirena: Maree notturne. |
-  | 276 |  | [Token Nucleo di energia](/ItemsIT/con_999/){: .btn .btn--era4} | Exclusive piece | Token Nucleo di energia proveniente da una campagna storica. Usalo per risvegliare il potenziale dell'Elementale della pietra: Nucleo di energia. |
-  | 277 |  | [Token Nucleo mistico](/ItemsIT/con_1000/){: .btn .btn--era5} | Exclusive piece | Token di Nucleo mistico da una campagna storica. Usalo per risvegliare il potere esclusivo dell'Elementale psichico: Nucleo mistico. |
-  | 278 |  | [Token Obbedienza](/ItemsIT/con_1005/){: .btn .btn--era5} | Exclusive piece | Token Obbedienza da una campagna storica. Usalo per risvegliare il potere esclusivo della Tartaruga draconica: Obbedienza. |
-  | 279 |  | [Token Occhio dell'Incubo](/ItemsIT/con_985/){: .btn .btn--era4} | Exclusive piece | Token di Occhio dell'Incubo da una campagna storica. Usalo per risvegliare il potere esclusivo dell'Incubo: Occhio dell'Incubo. |
-  | 280 |  | [Token Peso insostenibile](/ItemsIT/con_988/){: .btn .btn--era5} | Exclusive piece | Token di Peso insostenibile da una campagna storica. Usalo per risvegliare il potere esclusivo del Gigante: Peso insostenibile. |
-  | 281 |  | [Token Scudo dell'Iride](/ItemsIT/con_913/){: .btn .btn--era4} | Exclusive piece | Token esclusivo da una campagna storica. Usalo per risvegliare il potenziale delle unità di difesa: Scudo dell'Iride. |
-  | 282 |  | [Token Sguardo oscuro](/ItemsIT/con_990/){: .btn .btn--era4} | Exclusive piece | Token di Sguardo oscuro da una campagna storica. Usalo per risvegliare il potere esclusivo dell'Osservatore: Sguardo oscuro. |
-  | 283 |  | [Token Spada delle Naga](/ItemsIT/con_987/){: .btn .btn--era5} | Exclusive piece | Token Spada delle Naga proveniente da una campagna storica. Usalo per risvegliare il potenziale delle Naga: Spada delle Naga. |
-  | 284 |  | [Token Spirito sanguinario](/ItemsIT/con_982/){: .btn .btn--era5} | Exclusive piece | Token di Spirito sanguinario da una campagna storica. Usalo per risvegliare il potere esclusivo del Behemoth: Spirito sanguinario. |
-  | 285 |  | [Token Squama del Drago nero](/ItemsIT/con_993/){: .btn .btn--era5} | Exclusive piece | Token Squama del Drago nero proveniente da una campagna storica. Usalo per risvegliare il potenziale del Drago nero: Squama del Drago nero. |
-  | 286 |  | [Token Stella polare](/ItemsIT/con_989/){: .btn .btn--era4} | Exclusive piece | Token di Stella polare da una campagna storica. Usalo per risvegliare il potere esclusivo dell'Aeronave magica: Stella polare. |
-  | 287 |  | [Token Testa di Idra](/ItemsIT/con_997/){: .btn .btn--era5} | Exclusive piece | Token di Testa di Idra da una campagna storica. Usalo per risvegliare il potere esclusivo dell'Idra: Testa di Idra. |
-  | 288 |  | [Token Tributo di morte](/ItemsIT/con_978/){: .btn .btn--era4} | Exclusive piece | Token Tributo di morte proveniente da una campagna storica. Usalo per risvegliare il potenziale del Lich: Tributo di morte. |
-  | 289 | ![Token della Sapienza](/images/t/i_40004.png) | [Token della Sapienza](/ItemsIT/con_911/){: .btn .btn--era5} | Other | Scambia questa risorsa per ottenere token Libro di incantesimi presso il negozio dei Libri di incantesimi. Si può ottenere scomponendo i libri di incantesimi. |
-  | 290 |  | [Token della Spada](/ItemsIT/con_912/){: .btn .btn--era4} | Exclusive piece | Token esclusivo da una campagna storica. Usalo per risvegliare il potenziale delle unità d'attacco: Spada. |
-  | 291 | ![Token della Velocità](/images/t/i_jiasujuanzhou.png) | [Token della Velocità](/ItemsIT/con_906/){: .btn .btn--era4} | Shipyard related | Fanne uso per velocizzare la tua attuale missione Cantiere di 30 minuti. |
-  | 292 | ![Token planari](/images/t/i_40003.png) | [Token planari](/ItemsIT/con_910/){: .btn .btn--era5} | Other | Forgiati nel corso delle ere dagli Elementali tra diversi piani esistenziali. Estremamente preziosi, è possibile scambiarli per ottenere oggetti. |
-  | 293 | ![Token universale](/images/t/i_907072.png) | [Token universale](/ItemsIT/con_1458/){: .btn .btn--era4} | Unit Essence | *Hai il 33% di probabilità di ottenere un token universale! |
-  | 294 | ![Tomo della preghiera](/images/t/i_40005.png) | [Tomo della preghiera](/ItemsIT/con_917/){: .btn .btn--era5} | Other | Lancia l'incantesimo per risvegliare la fontana incantata e ottenere una probabilità gratuita per la Preghiera incantata. |
-  | 295 |  | [Tool_210909](/ItemsIT/con_643/){: .btn .btn--era6} | Special Skin |  |
-  | 296 |  | [Tool_250809](/ItemsIT/con_653/){: .btn .btn--era4} | Special Skin |  |
-  | 297 |  | [Tool_2990309](/ItemsIT/con_670/){: .btn .btn--era4} | Special Skin |  |
-  | 298 |  | [Tool_2990709](/ItemsIT/con_674/){: .btn .btn--era6} | Special Skin |  |
-  | 299 | ![Tool_31022](/images/t/i_red_1.png) | [Tool_31022](/ItemsIT/con_843/){: .btn .btn--era5} | Guild member gift |  |
-  | 300 | ![Tool_31023](/images/t/i_red_1.png) | [Tool_31023](/ItemsIT/con_844/){: .btn .btn--era5} | Guild member gift |  |
-  | 301 | ![Tool_31024](/images/t/i_red_2.png) | [Tool_31024](/ItemsIT/con_845/){: .btn .btn--era5} | Guild member gift |  |
-  | 302 | ![Tool_31025](/images/t/i_red_2.png) | [Tool_31025](/ItemsIT/con_846/){: .btn .btn--era5} | Guild member gift |  |
-  | 303 | ![Tool_31027](/images/t/i_red_2.png) | [Tool_31027](/ItemsIT/con_848/){: .btn .btn--era5} | Guild member gift |  |
-  | 304 | ![Tool_31028](/images/t/i_red_2.png) | [Tool_31028](/ItemsIT/con_849/){: .btn .btn--era5} | Guild member gift |  |
-  | 305 | ![Tool_31029](/images/t/i_red_2.png) | [Tool_31029](/ItemsIT/con_850/){: .btn .btn--era5} | Guild member gift |  |
-  | 306 | ![Tool_31030](/images/t/i_red_3.png) | [Tool_31030](/ItemsIT/con_851/){: .btn .btn--era5} | Guild member gift |  |
-  | 307 | ![Tool_31031](/images/t/i_red_3.png) | [Tool_31031](/ItemsIT/con_852/){: .btn .btn--era5} | Guild member gift |  |
-  | 308 | ![Tool_31032](/images/t/i_red_3.png) | [Tool_31032](/ItemsIT/con_853/){: .btn .btn--era5} | Guild member gift |  |
-  | 309 | ![Tool_31033](/images/t/i_red_3.png) | [Tool_31033](/ItemsIT/con_854/){: .btn .btn--era5} | Guild member gift |  |
-  | 310 | ![Tool_31034](/images/t/i_red_2.png) | [Tool_31034](/ItemsIT/con_855/){: .btn .btn--era5} | Guild member gift |  |
-  | 311 | ![Tool_31035](/images/t/i_red_2.png) | [Tool_31035](/ItemsIT/con_856/){: .btn .btn--era5} | Guild member gift |  |
-  | 312 | ![Tool_31036](/images/t/i_red_2.png) | [Tool_31036](/ItemsIT/con_857/){: .btn .btn--era5} | Guild member gift |  |
-  | 313 | ![Tool_31037](/images/t/i_red_2.png) | [Tool_31037](/ItemsIT/con_858/){: .btn .btn--era5} | Guild member gift |  |
-  | 314 |  | [Tool_40013](/ItemsIT/con_925/){: .btn .btn--era4} | Other |  |
-  | 315 |  | [Tool_499035](/ItemsIT/con_1002/){: .btn .btn--era4} | Exclusive piece |  |
-  | 316 | ![Tool_6030403](/images/h/h_Gem5.jpg) | [Tool_6030403](/ItemsIT/con_1047/){: .btn .btn--era5} | Special Skin |  |
-  | 317 | ![Tool_6070503](/images/h/h_Ciele5.jpg) | [Tool_6070503](/ItemsIT/con_1062/){: .btn .btn--era5} | Special Skin |  |
-  | 318 | ![Tool_6170102](/images/h/h_Cassanbel3.jpg) | [Tool_6170102](/ItemsIT/con_1079/){: .btn .btn--era5} | Special Skin |  |
-  | 319 | ![Tool_9210101](/images/h/h_Xeron3.jpg) | [Tool_9210101](/ItemsIT/con_1971/){: .btn .btn--era5} | Unit Skin |  |
-  | 320 | ![Tool_9210903](/images/u/ti_shenpanguan.jpg) | [Tool_9210903](/ItemsIT/con_1977/){: .btn .btn--era5} | Unit Skin |  |
-  | 321 | ![Tool_9220902](/images/u/ti_tanglangpifu.jpg) | [Tool_9220902](/ItemsIT/con_1981/){: .btn .btn--era5} | Unit Skin |  |
-  | 322 | ![Tool_9250903](/images/u/ti_yanmodiancangpifu.jpg) | [Tool_9250903](/ItemsIT/con_1992/){: .btn .btn--era5} | Unit Skin |  |
-  | 323 | ![Tool_9260903](/images/u/ti_kuileilongdiancangpifu.jpg) | [Tool_9260903](/ItemsIT/con_1995/){: .btn .btn--era5} | Unit Skin |  |
-  | 324 | ![Tool_9280803](/images/u/ti_dufengcaopifu.jpg) | [Tool_9280803](/ItemsIT/con_1999/){: .btn .btn--era5} | Unit Skin |  |
-  | 325 | ![Tool_9280902](/images/u/ti_baihupifu.jpg) | [Tool_9280902](/ItemsIT/con_2000/){: .btn .btn--era5} | Unit Skin |  |
-  | 326 | ![Tool_940001](/images/t/shenghui_4.png) | [Tool_940001](/ItemsIT/con_2087/){: .btn .btn--era4} | Battle Formation |  |
-  | 327 | ![Tool_940002](/images/t/shenghui_4.png) | [Tool_940002](/ItemsIT/con_2088/){: .btn .btn--era4} | Battle Formation |  |
-  | 328 |  | [Tool_940101](/ItemsIT/con_2089/){: .btn .btn--era4} | Battle Formation |  |
-  | 329 |  | [Tool_940102](/ItemsIT/con_2090/){: .btn .btn--era4} | Battle Formation |  |
-  | 330 |  | [Tool_940103](/ItemsIT/con_2091/){: .btn .btn--era4} | Battle Formation |  |
-  | 331 |  | [Tool_940104](/ItemsIT/con_2092/){: .btn .btn--era4} | Battle Formation |  |
-  | 332 |  | [Tool_940105](/ItemsIT/con_2093/){: .btn .btn--era4} | Battle Formation |  |
-  | 333 |  | [Tool_940106](/ItemsIT/con_2094/){: .btn .btn--era4} | Battle Formation |  |
-  | 334 |  | [Tool_940107](/ItemsIT/con_2095/){: .btn .btn--era4} | Battle Formation |  |
-  | 335 |  | [Tool_940108](/ItemsIT/con_2096/){: .btn .btn--era4} | Battle Formation |  |
-  | 336 |  | [Tool_940109](/ItemsIT/con_2097/){: .btn .btn--era4} | Battle Formation |  |
-  | 337 |  | [Tool_940110](/ItemsIT/con_2098/){: .btn .btn--era4} | Battle Formation |  |
-  | 338 |  | [Valore Attività](/ItemsIT/con_901/){: .btn .btn--era4} | VIP related | Puoi aumentare il tuo livello di Attività completando le Missioni giornaliere. |
-  | 339 | ![Vecchia mappa](/images/t/i_810101.png) | [Vecchia mappa](/ItemsIT/con_1155/){: .btn .btn--era4} | GUILD_MAP_TREASURE | Antica mappa che sembra indicare la posizione di un tesoro nascosto. Utile a scoprire un tesoro nella mappa della Gilda. |
-  | 340 |  | [Vele nere](/it/Items/con_2154/){: .btn .btn--era5} | Unit Skin | Contiene la skin Vele nere per l'Addestratore di squali. |
-  | 341 | ![Via dei Vichinghi: skin Berserker](/images/u/ti_kuangzhanshipifu.jpg) | [Via dei Vichinghi: skin Berserker](/ItemsIT/con_1988/){: .btn .btn--era5} | Unit Skin | Contiene la skin per Berserker Via dei Vichinghi. |
-  | 342 | ![Vidomina Apprendista eretica](/images/h/h_Vidomina3.jpg) | [Vidomina Apprendista eretica](/ItemsIT/con_1052/){: .btn .btn--era5} | Special Skin | Usa per ottenere una skin: Vidomina Apprendista eretica |
-  | 343 | ![Viveur: Caterina](/images/h/h_Catherine8.jpg) | [Viveur: Caterina](/ItemsIT/con_1031/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Viveur per Caterina |
-  | 344 | ![Voucher fan](/images/t/i_120.png) | [Voucher fan](/ItemsIT/con_908/){: .btn .btn--era9} | VIP related | Voucher fan |
-  | 345 | ![Xeron Sagra della Primavera](/images/h/h_Xeron3.jpg) | [Xeron Sagra della Primavera](/ItemsIT/con_1063/){: .btn .btn--era5} | Special Skin | Usa per ottenere una skin: Xeron Sagra della Primavera |
-  | 346 | ![Yog Mago guerriero](/images/h/h_Yog3.jpg) | [Yog Mago guerriero](/ItemsIT/con_1059/){: .btn .btn--era5} | Special Skin | Usa per ottenere una skin: Yog Mago guerriero |
+  | 225 |  | [Skin speciale Lama celata](/it/Items/con_2199/){: .btn .btn--era5} | Special Skin | Sblocca la skin al risveglio di: Lama celata. |
+  | 226 |  | [Skin speciale Lama del sottosuolo](/ItemsIT/con_647/){: .btn .btn--era5} | Special Skin | Sblocca la skin al risveglio di Lama del sottosuolo. |
+  | 227 |  | [Skin speciale Lira](/ItemsIT/con_654/){: .btn .btn--era4} | Special Skin | Sblocca la skin al risveglio di: Lira. |
+  | 228 |  | [Skin speciale Maree diurne](/ItemsIT/con_671/){: .btn .btn--era4} | Special Skin | Sblocca la skin al risveglio di: Maree diurne. |
+  | 229 |  | [Skin speciale Maree notturne](/ItemsIT/con_672/){: .btn .btn--era4} | Special Skin | Sblocca la skin al risveglio di: Maree notturne. |
+  | 230 |  | [Skin speciale Nucleo di energia](/ItemsIT/con_667/){: .btn .btn--era4} | Special Skin | Sblocca la skin al risveglio di Nucleo di energia. |
+  | 231 |  | [Skin speciale Nucleo mistico](/ItemsIT/con_668/){: .btn .btn--era5} | Special Skin | Sblocca la skin al risveglio di: Nucleo mistico. |
+  | 232 |  | [Skin speciale Obbedienza](/ItemsIT/con_673/){: .btn .btn--era5} | Special Skin | Sblocca la skin al risveglio di: Obbedienza. |
+  | 233 |  | [Skin speciale Peso insostenibile](/ItemsIT/con_656/){: .btn .btn--era5} | Special Skin | Sblocca la skin al risveglio di: Peso insostenibile. |
+  | 234 |  | [Skin speciale Sguardo oscuro](/ItemsIT/con_658/){: .btn .btn--era4} | Special Skin | Sblocca la skin al risveglio di: Sguardo oscuro. |
+  | 235 |  | [Skin speciale Spada delle Naga](/ItemsIT/con_655/){: .btn .btn--era5} | Special Skin | Sblocca la skin al risveglio di Spada delle Naga. |
+  | 236 |  | [Skin speciale Spirito sanguinario](/ItemsIT/con_650/){: .btn .btn--era5} | Special Skin | Sblocca la skin al risveglio di: Spirito sanguinario. |
+  | 237 |  | [Skin speciale Squama del Drago nero](/ItemsIT/con_661/){: .btn .btn--era5} | Special Skin | Sblocca la skin al risveglio di Squama del Drago nero. |
+  | 238 |  | [Skin speciale Stella polare](/ItemsIT/con_657/){: .btn .btn--era4} | Special Skin | Sblocca la skin al risveglio di: Stella polare. |
+  | 239 |  | [Skin speciale Tributo di morte](/ItemsIT/con_646/){: .btn .btn--era4} | Special Skin | Sblocca la skin al risveglio di Tributo di morte. |
+  | 240 | ![Spada dell'Armageddon: Gelu](/images/h/h_Gelu4.jpg) | [Spada dell'Armageddon: Gelu](/ItemsIT/con_1037/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Spada dell'Armageddon per Gelu |
+  | 241 | ![Spada della primavera: skin Paladino](/images/u/ti_shengqishiqixi.jpg) | [Spada della primavera: skin Paladino](/ItemsIT/con_1975/){: .btn .btn--era5} | Unit Skin | Contiene la skin Spada della primavera per il Paladino. |
+  | 242 |  | [Spedizione globale: skin per Arciere di Regna](/it/Items/con_2149/){: .btn .btn--era5} | Unit Skin | Contiene la skin Spedizione globale per l'Arciere di Regna. |
+  | 243 | ![Squadra di esploratori: Gelu](/images/h/h_Gelu5.jpg) | [Squadra di esploratori: Gelu](/ItemsIT/con_1038/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Squadra di esploratori per Gelu |
+  | 244 |  | [Statua commemorativa](/ItemsIT/con_947/){: .btn .btn--era4} | Other | Usala per riscuotere i doni di Pasqua. |
+  | 245 |  | [Teletrasporto](/ItemsIT/con_944/){: .btn .btn--era4} | Other | Permette l'utilizzo del teletrasporto nell'evento Mare curativo. |
+  | 246 | ![Tesoro dell'Arena grande](/images/t/i_504.png) | [Tesoro dell'Arena grande](/ItemsIT/con_719/){: .btn .btn--era4} | EXP | Uno scrigno del tesoro contenente 60 Monete Arena! |
+  | 247 | ![Tesoro dell'Arena medio](/images/t/i_503.png) | [Tesoro dell'Arena medio](/ItemsIT/con_718/){: .btn .btn--era3} | EXP | Uno scrigno del tesoro contenente 30 Monete Arena! |
+  | 248 | ![Tesoro dell'Arena piccolo](/images/t/i_502.png) | [Tesoro dell'Arena piccolo](/ItemsIT/con_717/){: .btn .btn--era2} | EXP | Uno scrigno del tesoro contenente 6 Monete Arena! |
+  | 249 | ![Tesoro della Campagna grande](/images/t/i_503.png) | [Tesoro della Campagna grande](/ItemsIT/con_723/){: .btn .btn--era4} | EXP | Uno scrigno del tesoro contenente 60 Medaglie dell'impero! |
+  | 250 | ![Tesoro della Campagna medio](/images/t/i_506.png) | [Tesoro della Campagna medio](/ItemsIT/con_722/){: .btn .btn--era3} | EXP | Uno scrigno del tesoro contenente 30 Medaglie dell'impero! |
+  | 251 | ![Tesoro della Campagna piccolo](/images/t/i_505.png) | [Tesoro della Campagna piccolo](/ItemsIT/con_721/){: .btn .btn--era2} | EXP | Uno scrigno del tesoro contenente 6 Medaglie dell'impero! |
+  | 252 | ![Tessera mensile VIP](/images/t/i_supermonth.png) | [Tessera mensile VIP](/ItemsIT/con_883/){: .btn .btn--era5} | VIP related | Un oggetto misterioso capace di produrre ricchezza ininterrottamente. Solo i più fortunati potranno possederlo. |
+  | 253 | ![Tessera mensile base](/images/t/i_month.png) | [Tessera mensile base](/ItemsIT/con_884/){: .btn .btn--era4} | VIP related | Un oggetto misterioso capace di produrre ricchezza ininterrottamente. Solo i più fortunati potranno possederlo. |
+  | 254 | ![Tiranno della Cenere: Rashka](/images/h/h_Rashka3.jpg) | [Tiranno della Cenere: Rashka](/ItemsIT/con_1064/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Tiranno della Cenere per Rashka |
+  | 255 |  | [Token Ala di drago splendente](/ItemsIT/con_976/){: .btn .btn--era5} | Exclusive piece | Token di Ala di drago splendente da una campagna storica. Usalo per risvegliare il potere esclusivo del Drago verde: Ala di drago splendente. |
+  | 256 |  | [Token Arco di Medusa](/ItemsIT/con_991/){: .btn .btn--era4} | Exclusive piece | Token Arco di Medusa proveniente da una campagna storica. Usalo per risvegliare il potenziale di Medusa: Arco di Medusa. |
+  | 257 |  | [Token Arco lungo](/ItemsIT/con_914/){: .btn .btn--era4} | Exclusive piece | Token esclusivo da una campagna storica. Usalo per risvegliare il potenziale delle unità a distanza: Arco lungo. |
+  | 258 |  | [Token Ascia del Berserker](/ItemsIT/con_983/){: .btn .btn--era5} | Exclusive piece | Token di Ascia del Berserker da una campagna storica. Usalo per risvegliare il potere esclusivo del Berserker: Ascia del Berserker. |
+  | 259 |  | [Token Bastone della Ricrescita](/ItemsIT/con_977/){: .btn .btn--era4} | Exclusive piece | Token del Bastone della Ricrescita da una campagna storica. Usalo per risvegliare il potere esclusivo del Druido: Bastone della Ricrescita. |
+  | 260 |  | [Token Benda](/ItemsIT/con_981/){: .btn .btn--era4} | Exclusive piece | Token di una Benda da una campagna storica. Usalo per risvegliare il potere esclusivo della Mummia: Benda. |
+  | 261 |  | [Token Cantico arcano](/ItemsIT/con_915/){: .btn .btn--era4} | Exclusive piece | Token esclusivo da una campagna storica. Usalo per risvegliare il potenziale degli incantatori: Cantico arcano. |
+  | 262 |  | [Token Carica impetuosa](/ItemsIT/con_916/){: .btn .btn--era4} | Exclusive piece | Token esclusivo da una campagna storica. Usalo per risvegliare il potere delle unità d'incursione: Carica impetuosa. |
+  | 263 |  | [Token Coda di Basilisco](/ItemsIT/con_994/){: .btn .btn--era4} | Exclusive piece | Token di Coda di Basilisco da una campagna storica. Usalo per risvegliare il potere esclusivo del Basilisco: Coda del Basilisco. |
+  | 264 |  | [Token Coda di Viverna](/ItemsIT/con_996/){: .btn .btn--era4} | Exclusive piece | Token di Coda di Viverna da una campagna storica. Usalo per risvegliare il potere esclusivo della Viverna: Coda della Viverna. |
+  | 265 |  | [Token Coda di scorpione](/ItemsIT/con_992/){: .btn .btn--era4} | Exclusive piece | Token Coda di scorpione proveniente da una campagna storica. Usalo per risvegliare il potenziale della Manticora: Coda di scorpione. |
+  | 266 |  | [Token Corno di Gorgone](/ItemsIT/con_995/){: .btn .btn--era5} | Exclusive piece | Token di Corno di Gorgone da una campagna storica. Usalo per risvegliare il potere esclusivo della Gorgone: Corno di Gorgone. |
+  | 267 |  | [Token Drago scheletrico immortale](/ItemsIT/con_980/){: .btn .btn--era5} | Exclusive piece | Token Drago scheletrico immortale proveniente da una campagna storica. Usalo per risvegliare il potenziale del Drago scheletrico: Drago scheletrico immortale. |
+  | 268 |  | [Token Durlindana](/ItemsIT/con_973/){: .btn .btn--era5} | Exclusive piece | Token di Durlindana da una campagna storica. Usalo per risvegliare il potere esclusivo dell'Angelo: Durlindana. |
+  | 269 |  | [Token Energia del Fuoco](/ItemsIT/con_998/){: .btn .btn--era4} | Exclusive piece | Token Energia del Fuoco proveniente da una campagna storica. Usalo per risvegliare il potenziale dell'Elementale del fuoco: Energia del Fuoco. |
+  | 270 |  | [Token Falce diabolica](/ItemsIT/con_984/){: .btn .btn--era5} | Exclusive piece | Token Falce diabolica proveniente da una campagna storica. Usalo per risvegliare il potenziale del Diavolo: Falce diabolica. |
+  | 271 |  | [Token Fiamma eterna](/ItemsIT/con_1001/){: .btn .btn--era4} | Exclusive piece | Token Fiamma eterna proveniente da una campagna storica. Usalo per risvegliare il potenziale del Rapace di fuoco: Fiamma eterna. |
+  | 272 |  | [Token Impavida](/ItemsIT/con_974/){: .btn .btn--era5} | Exclusive piece | Token dell'Impavida da una campagna storica. Usalo per risvegliare il potere esclusivo del Paladino: Impavida. |
+  | 273 |  | [Token Lama celata](/it/Items/con_2200/){: .btn .btn--era5} | Exclusive piece | Token Lama celata da una campagna storica. Usalo per risvegliare il potere esclusivo dell'Assassino: Lama celata. |
+  | 274 |  | [Token Lama del sottosuolo](/ItemsIT/con_979/){: .btn .btn--era5} | Exclusive piece | Token Lama del sottosuolo proveniente da una campagna storica. Usalo per risvegliare il potenziale del Cavaliere nero: Lama del sottosuolo. |
+  | 275 |  | [Token Lira](/ItemsIT/con_986/){: .btn .btn--era4} | Exclusive piece | Token di una Lira da una campagna storica. Usalo per risvegliare il potere esclusivo del Genio: Lira. |
+  | 276 |  | [Token Maree diurne](/ItemsIT/con_1003/){: .btn .btn--era4} | Exclusive piece | Token Maree diurne da una campagna storica. Usalo per risvegliare il potere esclusivo del Serpente di Regna: Maree diurne. |
+  | 277 |  | [Token Maree notturne](/ItemsIT/con_1004/){: .btn .btn--era4} | Exclusive piece | Token Maree notturne da una campagna storica. Usalo per risvegliare il potere esclusivo della Sirena: Maree notturne. |
+  | 278 |  | [Token Nucleo di energia](/ItemsIT/con_999/){: .btn .btn--era4} | Exclusive piece | Token Nucleo di energia proveniente da una campagna storica. Usalo per risvegliare il potenziale dell'Elementale della pietra: Nucleo di energia. |
+  | 279 |  | [Token Nucleo mistico](/ItemsIT/con_1000/){: .btn .btn--era5} | Exclusive piece | Token di Nucleo mistico da una campagna storica. Usalo per risvegliare il potere esclusivo dell'Elementale psichico: Nucleo mistico. |
+  | 280 |  | [Token Obbedienza](/ItemsIT/con_1005/){: .btn .btn--era5} | Exclusive piece | Token Obbedienza da una campagna storica. Usalo per risvegliare il potere esclusivo della Tartaruga draconica: Obbedienza. |
+  | 281 |  | [Token Occhio dell'Incubo](/ItemsIT/con_985/){: .btn .btn--era4} | Exclusive piece | Token di Occhio dell'Incubo da una campagna storica. Usalo per risvegliare il potere esclusivo dell'Incubo: Occhio dell'Incubo. |
+  | 282 |  | [Token Peso insostenibile](/ItemsIT/con_988/){: .btn .btn--era5} | Exclusive piece | Token di Peso insostenibile da una campagna storica. Usalo per risvegliare il potere esclusivo del Gigante: Peso insostenibile. |
+  | 283 |  | [Token Scudo dell'Iride](/ItemsIT/con_913/){: .btn .btn--era4} | Exclusive piece | Token esclusivo da una campagna storica. Usalo per risvegliare il potenziale delle unità di difesa: Scudo dell'Iride. |
+  | 284 |  | [Token Sguardo oscuro](/ItemsIT/con_990/){: .btn .btn--era4} | Exclusive piece | Token di Sguardo oscuro da una campagna storica. Usalo per risvegliare il potere esclusivo dell'Osservatore: Sguardo oscuro. |
+  | 285 |  | [Token Spada delle Naga](/ItemsIT/con_987/){: .btn .btn--era5} | Exclusive piece | Token Spada delle Naga proveniente da una campagna storica. Usalo per risvegliare il potenziale delle Naga: Spada delle Naga. |
+  | 286 |  | [Token Spirito sanguinario](/ItemsIT/con_982/){: .btn .btn--era5} | Exclusive piece | Token di Spirito sanguinario da una campagna storica. Usalo per risvegliare il potere esclusivo del Behemoth: Spirito sanguinario. |
+  | 287 |  | [Token Squama del Drago nero](/ItemsIT/con_993/){: .btn .btn--era5} | Exclusive piece | Token Squama del Drago nero proveniente da una campagna storica. Usalo per risvegliare il potenziale del Drago nero: Squama del Drago nero. |
+  | 288 |  | [Token Stella polare](/ItemsIT/con_989/){: .btn .btn--era4} | Exclusive piece | Token di Stella polare da una campagna storica. Usalo per risvegliare il potere esclusivo dell'Aeronave magica: Stella polare. |
+  | 289 |  | [Token Testa di Idra](/ItemsIT/con_997/){: .btn .btn--era5} | Exclusive piece | Token di Testa di Idra da una campagna storica. Usalo per risvegliare il potere esclusivo dell'Idra: Testa di Idra. |
+  | 290 |  | [Token Tributo di morte](/ItemsIT/con_978/){: .btn .btn--era4} | Exclusive piece | Token Tributo di morte proveniente da una campagna storica. Usalo per risvegliare il potenziale del Lich: Tributo di morte. |
+  | 291 | ![Token della Sapienza](/images/t/i_40004.png) | [Token della Sapienza](/ItemsIT/con_911/){: .btn .btn--era5} | Other | Scambia questa risorsa per ottenere token Libro di incantesimi presso il negozio dei Libri di incantesimi. Si può ottenere scomponendo i libri di incantesimi. |
+  | 292 |  | [Token della Spada](/ItemsIT/con_912/){: .btn .btn--era4} | Exclusive piece | Token esclusivo da una campagna storica. Usalo per risvegliare il potenziale delle unità d'attacco: Spada. |
+  | 293 | ![Token della Velocità](/images/t/i_jiasujuanzhou.png) | [Token della Velocità](/ItemsIT/con_906/){: .btn .btn--era4} | Shipyard related | Fanne uso per velocizzare la tua attuale missione Cantiere di 30 minuti. |
+  | 294 | ![Token planari](/images/t/i_40003.png) | [Token planari](/ItemsIT/con_910/){: .btn .btn--era5} | Other | Forgiati nel corso delle ere dagli Elementali tra diversi piani esistenziali. Estremamente preziosi, è possibile scambiarli per ottenere oggetti. |
+  | 295 | ![Token universale](/images/t/i_907072.png) | [Token universale](/ItemsIT/con_1458/){: .btn .btn--era4} | Unit Essence | *Hai il 33% di probabilità di ottenere un token universale! |
+  | 296 | ![Tomo della preghiera](/images/t/i_40005.png) | [Tomo della preghiera](/ItemsIT/con_917/){: .btn .btn--era5} | Other | Lancia l'incantesimo per risvegliare la fontana incantata e ottenere una probabilità gratuita per la Preghiera incantata. |
+  | 297 |  | [Tool_210909](/ItemsIT/con_643/){: .btn .btn--era6} | Special Skin |  |
+  | 298 |  | [Tool_250809](/ItemsIT/con_653/){: .btn .btn--era4} | Special Skin |  |
+  | 299 |  | [Tool_2990309](/ItemsIT/con_670/){: .btn .btn--era4} | Special Skin |  |
+  | 300 |  | [Tool_2990709](/ItemsIT/con_674/){: .btn .btn--era6} | Special Skin |  |
+  | 301 | ![Tool_31022](/images/t/i_red_1.png) | [Tool_31022](/ItemsIT/con_843/){: .btn .btn--era5} | Guild member gift |  |
+  | 302 | ![Tool_31023](/images/t/i_red_1.png) | [Tool_31023](/ItemsIT/con_844/){: .btn .btn--era5} | Guild member gift |  |
+  | 303 | ![Tool_31024](/images/t/i_red_2.png) | [Tool_31024](/ItemsIT/con_845/){: .btn .btn--era5} | Guild member gift |  |
+  | 304 | ![Tool_31025](/images/t/i_red_2.png) | [Tool_31025](/ItemsIT/con_846/){: .btn .btn--era5} | Guild member gift |  |
+  | 305 | ![Tool_31027](/images/t/i_red_2.png) | [Tool_31027](/ItemsIT/con_848/){: .btn .btn--era5} | Guild member gift |  |
+  | 306 | ![Tool_31028](/images/t/i_red_2.png) | [Tool_31028](/ItemsIT/con_849/){: .btn .btn--era5} | Guild member gift |  |
+  | 307 | ![Tool_31029](/images/t/i_red_2.png) | [Tool_31029](/ItemsIT/con_850/){: .btn .btn--era5} | Guild member gift |  |
+  | 308 | ![Tool_31030](/images/t/i_red_3.png) | [Tool_31030](/ItemsIT/con_851/){: .btn .btn--era5} | Guild member gift |  |
+  | 309 | ![Tool_31031](/images/t/i_red_3.png) | [Tool_31031](/ItemsIT/con_852/){: .btn .btn--era5} | Guild member gift |  |
+  | 310 | ![Tool_31032](/images/t/i_red_3.png) | [Tool_31032](/ItemsIT/con_853/){: .btn .btn--era5} | Guild member gift |  |
+  | 311 | ![Tool_31033](/images/t/i_red_3.png) | [Tool_31033](/ItemsIT/con_854/){: .btn .btn--era5} | Guild member gift |  |
+  | 312 | ![Tool_31034](/images/t/i_red_2.png) | [Tool_31034](/ItemsIT/con_855/){: .btn .btn--era5} | Guild member gift |  |
+  | 313 | ![Tool_31035](/images/t/i_red_2.png) | [Tool_31035](/ItemsIT/con_856/){: .btn .btn--era5} | Guild member gift |  |
+  | 314 | ![Tool_31036](/images/t/i_red_2.png) | [Tool_31036](/ItemsIT/con_857/){: .btn .btn--era5} | Guild member gift |  |
+  | 315 | ![Tool_31037](/images/t/i_red_2.png) | [Tool_31037](/ItemsIT/con_858/){: .btn .btn--era5} | Guild member gift |  |
+  | 316 |  | [Tool_40013](/ItemsIT/con_925/){: .btn .btn--era4} | Other |  |
+  | 317 |  | [Tool_499035](/ItemsIT/con_1002/){: .btn .btn--era4} | Exclusive piece |  |
+  | 318 | ![Tool_6030403](/images/h/h_Gem5.jpg) | [Tool_6030403](/ItemsIT/con_1047/){: .btn .btn--era5} | Special Skin |  |
+  | 319 | ![Tool_6070503](/images/h/h_Ciele5.jpg) | [Tool_6070503](/ItemsIT/con_1062/){: .btn .btn--era5} | Special Skin |  |
+  | 320 | ![Tool_6170102](/images/h/h_Cassanbel3.jpg) | [Tool_6170102](/ItemsIT/con_1079/){: .btn .btn--era5} | Special Skin |  |
+  | 321 | ![Tool_9210101](/images/h/h_Xeron3.jpg) | [Tool_9210101](/ItemsIT/con_1971/){: .btn .btn--era5} | Unit Skin |  |
+  | 322 | ![Tool_9210903](/images/u/ti_shenpanguan.jpg) | [Tool_9210903](/ItemsIT/con_1977/){: .btn .btn--era5} | Unit Skin |  |
+  | 323 | ![Tool_9220902](/images/u/ti_tanglangpifu.jpg) | [Tool_9220902](/ItemsIT/con_1981/){: .btn .btn--era5} | Unit Skin |  |
+  | 324 | ![Tool_9250903](/images/u/ti_yanmodiancangpifu.jpg) | [Tool_9250903](/ItemsIT/con_1992/){: .btn .btn--era5} | Unit Skin |  |
+  | 325 | ![Tool_9260903](/images/u/ti_kuileilongdiancangpifu.jpg) | [Tool_9260903](/ItemsIT/con_1995/){: .btn .btn--era5} | Unit Skin |  |
+  | 326 | ![Tool_9280803](/images/u/ti_dufengcaopifu.jpg) | [Tool_9280803](/ItemsIT/con_1999/){: .btn .btn--era5} | Unit Skin |  |
+  | 327 | ![Tool_9280902](/images/u/ti_baihupifu.jpg) | [Tool_9280902](/ItemsIT/con_2000/){: .btn .btn--era5} | Unit Skin |  |
+  | 328 | ![Tool_940001](/images/t/shenghui_4.png) | [Tool_940001](/ItemsIT/con_2087/){: .btn .btn--era4} | Battle Formation |  |
+  | 329 | ![Tool_940002](/images/t/shenghui_4.png) | [Tool_940002](/ItemsIT/con_2088/){: .btn .btn--era4} | Battle Formation |  |
+  | 330 |  | [Tool_940101](/ItemsIT/con_2089/){: .btn .btn--era4} | Battle Formation |  |
+  | 331 |  | [Tool_940102](/ItemsIT/con_2090/){: .btn .btn--era4} | Battle Formation |  |
+  | 332 |  | [Tool_940103](/ItemsIT/con_2091/){: .btn .btn--era4} | Battle Formation |  |
+  | 333 |  | [Tool_940104](/ItemsIT/con_2092/){: .btn .btn--era4} | Battle Formation |  |
+  | 334 |  | [Tool_940105](/ItemsIT/con_2093/){: .btn .btn--era4} | Battle Formation |  |
+  | 335 |  | [Tool_940106](/ItemsIT/con_2094/){: .btn .btn--era4} | Battle Formation |  |
+  | 336 |  | [Tool_940107](/ItemsIT/con_2095/){: .btn .btn--era4} | Battle Formation |  |
+  | 337 |  | [Tool_940108](/ItemsIT/con_2096/){: .btn .btn--era4} | Battle Formation |  |
+  | 338 |  | [Tool_940109](/ItemsIT/con_2097/){: .btn .btn--era4} | Battle Formation |  |
+  | 339 |  | [Tool_940110](/ItemsIT/con_2098/){: .btn .btn--era4} | Battle Formation |  |
+  | 340 |  | [Valore Attività](/ItemsIT/con_901/){: .btn .btn--era4} | VIP related | Puoi aumentare il tuo livello di Attività completando le Missioni giornaliere. |
+  | 341 | ![Vecchia mappa](/images/t/i_810101.png) | [Vecchia mappa](/ItemsIT/con_1155/){: .btn .btn--era4} | GUILD_MAP_TREASURE | Antica mappa che sembra indicare la posizione di un tesoro nascosto. Utile a scoprire un tesoro nella mappa della Gilda. |
+  | 342 |  | [Vele nere](/it/Items/con_2154/){: .btn .btn--era5} | Unit Skin | Contiene la skin Vele nere per l'Addestratore di squali. |
+  | 343 | ![Via dei Vichinghi: skin Berserker](/images/u/ti_kuangzhanshipifu.jpg) | [Via dei Vichinghi: skin Berserker](/ItemsIT/con_1988/){: .btn .btn--era5} | Unit Skin | Contiene la skin per Berserker Via dei Vichinghi. |
+  | 344 | ![Vidomina Apprendista eretica](/images/h/h_Vidomina3.jpg) | [Vidomina Apprendista eretica](/ItemsIT/con_1052/){: .btn .btn--era5} | Special Skin | Usa per ottenere una skin: Vidomina Apprendista eretica |
+  | 345 | ![Viveur: Caterina](/images/h/h_Catherine8.jpg) | [Viveur: Caterina](/ItemsIT/con_1031/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Viveur per Caterina |
+  | 346 | ![Voucher fan](/images/t/i_120.png) | [Voucher fan](/ItemsIT/con_908/){: .btn .btn--era9} | VIP related | Voucher fan |
+  | 347 | ![Xeron Sagra della Primavera](/images/h/h_Xeron3.jpg) | [Xeron Sagra della Primavera](/ItemsIT/con_1063/){: .btn .btn--era5} | Special Skin | Usa per ottenere una skin: Xeron Sagra della Primavera |
+  | 348 | ![Yog Mago guerriero](/images/h/h_Yog3.jpg) | [Yog Mago guerriero](/ItemsIT/con_1059/){: .btn .btn--era5} | Special Skin | Usa per ottenere una skin: Yog Mago guerriero |
