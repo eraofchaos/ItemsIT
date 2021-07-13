@@ -2,7 +2,7 @@
 title: "Item - Gift"
 permalink: /Gift/
 excerpt: "Gift in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Gift.md"
 toc: false
@@ -356,7 +356,7 @@ classes: wide
   | 342 | ![Pacchetto Ombracciaio](/images/t/i_114.png) | [Pacchetto Ombracciaio](/ItemsIT/con_1957/){: .btn .btn--era4} | Gift | Un pacchetto contenente Acciaio draconico. Aprilo e riceverai 50 Acciaio draconico. |
   | 343 | ![Pacchetto Pietra mistica 1](/images/t/i_907414.png) | [Pacchetto Pietra mistica 1](/ItemsIT/con_1792/){: .btn .btn--era4} | Gift | Contiene 7000 Pietre mistiche. |
   | 344 | ![Pacchetto Pietra mistica 2](/images/t/i_907414.png) | [Pacchetto Pietra mistica 2](/ItemsIT/con_1793/){: .btn .btn--era4} | Gift | Contiene 20.000 Pietre mistiche. |
-  | 345 | ![Pacchetto Pietre mistiche SSR a scelta](/images/t/i_907560.png) | [Pacchetto Pietre mistiche SSR a scelta](/it/Items/con_2154/){: .btn .btn--era5} | Gift | Si usa per ottenere 1 ricompensa a scelta tra le seguenti: 1 Pietra mistica Cecchino di Regna, 1 Pietra mistica Arcangelo, 1 Pietra mistica Paladino Supremo, 1 Pietra mistica Drago d'oro, 1 Pietra mistica Cavaliere del terrore, 1 Pietra mistica Drago fantasma, 1 Pietra mistica Behemoth antico, 1 Pietra mistica Messaggero di morte, 1 Pietra mistica Arcidiavolo, 1 Pietra mistica Regina delle Naga, 1 Pietra mistica Titano, 1 Pietra mistica Re dei Draghi neri, 1 Pietra mistica Idra del Caos, 1 Pietra mistica Gorgone Invincibile, 1 Pietra mistica Leprecauno maggiore o 1 Pietra mistica Elementale magico. |
+  | 345 | ![Pacchetto Pietre mistiche SSR a scelta](/images/t/i_907560.png) | [Pacchetto Pietre mistiche SSR a scelta](/it/Items/con_2154/){: .btn .btn--era5} | Gift | Si usa per ottenere 1 ricompensa a scelta tra le seguenti: 1 Pietra mistica Arcangelo, 1 Pietra mistica Paladino Supremo, 1 Pietra mistica Drago d'oro, 1 Pietra mistica Cavaliere del terrore, 1 Pietra mistica Drago fantasma, 1 Pietra mistica Behemoth antico, 1 Pietra mistica Messaggero di morte, 1 Pietra mistica Arcidiavolo, 1 Pietra mistica Regina delle Naga, 1 Pietra mistica Titano, 1 Pietra mistica Re dei Draghi neri, 1 Pietra mistica Idra del Caos, 1 Pietra mistica Gorgone Invincibile, 1 Pietra mistica Leprecauno maggiore, 1 Pietra mistica Elementale magico o 1 Pietra mistica Cecchino di Regna. |
   | 346 | ![Pacchetto Pietre mistiche valorose](/images/t/i_907539.png) | [Pacchetto Pietre mistiche valorose](/ItemsIT/con_1916/){: .btn .btn--era4} | Gift | Contiene 2 Pietre mistiche Fanatico o 2 Pietre mistiche Maestro arciere. |
   | 347 | ![Pacchetto Ranger fantasma](/images/t/i_907008.png) | [Pacchetto Ranger fantasma](/ItemsIT/con_1394/){: .btn .btn--era4} | Gift | Pacchetto commemorativo di Gelu, il Ranger leggendario. Fanne uso e potresti ricevere dei token Tiratore scelto, token Elfo del bosco o Frammenti mistici di Gelu. |
   | 348 | ![Pacchetto Re dell'abisso](/images/t/i_907093.png) | [Pacchetto Re dell'abisso](/ItemsIT/con_1479/){: .btn .btn--era5} | Gift | Aprilo per ricevere una ricompensa a tua scelta tra le seguenti: 1 Cornice avatar Re dell'abisso o 5 token Diavolo |
@@ -692,4 +692,17 @@ classes: wide
   | 678 | ![Tool_907418](/images/t/i_907416.png) | [Tool_907418](/ItemsIT/con_1796/){: .btn .btn--era4} | Gift |  |
   | 679 | ![Tool_907419](/images/t/i_907417.png) | [Tool_907419](/ItemsIT/con_1797/){: .btn .btn--era4} | Gift |  |
   | 680 | ![Tool_907545](/images/t/i_907219.png) | [Tool_907545](/ItemsIT/con_1922/){: .btn .btn--era4} | Gift |  |
-  | 681 | ![Tool_990099](/images/t/i_114.png) | [Tool_990099](/ItemsIT/con_2099/){: .btn .btn--era4} | Gift |  |
+  | 681 |  | [Tool_907644](/it/Items/con_2201/){: .btn .btn--era5} | Gift |  |
+  | 682 |  | [Tool_907645](/it/Items/con_2202/){: .btn .btn--era5} | Gift |  |
+  | 683 |  | [Tool_907646](/it/Items/con_2203/){: .btn .btn--era5} | Gift |  |
+  | 684 |  | [Tool_907647](/it/Items/con_2204/){: .btn .btn--era5} | Gift |  |
+  | 685 | ![Tool_907648](/images/t/i_907181.png) | [Tool_907648](/it/Items/con_2205/){: .btn .btn--era5} | Gift |  |
+  | 686 |  | [Tool_907649](/it/Items/con_2206/){: .btn .btn--era6} | Gift |  |
+  | 687 | ![Tool_907650](/images/t/i_907190.png) | [Tool_907650](/it/Items/con_2207/){: .btn .btn--era5} | Gift |  |
+  | 688 | ![Tool_907651](/images/t/i_907190.png) | [Tool_907651](/it/Items/con_2208/){: .btn .btn--era5} | Gift |  |
+  | 689 | ![Tool_907652](/images/t/i_907190.png) | [Tool_907652](/it/Items/con_2209/){: .btn .btn--era5} | Gift |  |
+  | 690 | ![Tool_907653](/images/t/i_907190.png) | [Tool_907653](/it/Items/con_2210/){: .btn .btn--era5} | Gift |  |
+  | 691 | ![Tool_907654](/images/t/i_907190.png) | [Tool_907654](/it/Items/con_2211/){: .btn .btn--era5} | Gift |  |
+  | 692 | ![Tool_907655](/images/t/i_907525.png) | [Tool_907655](/it/Items/con_2212/){: .btn .btn--era4} | Gift |  |
+  | 693 |  | [Tool_907656](/it/Items/con_2213/){: .btn .btn--era5} | Gift |  |
+  | 694 | ![Tool_990099](/images/t/i_114.png) | [Tool_990099](/ItemsIT/con_2099/){: .btn .btn--era4} | Gift |  |
