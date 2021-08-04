@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerale comune"
 permalink: /mat_6/
 excerpt: "Era of Chaos  Minerale comune"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "mat_6.md"
 toc: false

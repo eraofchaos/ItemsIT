@@ -2,7 +2,7 @@
 title: "Item - Consumables"
 permalink: /Consumables/
 excerpt: "Consumables in Era of Chaos"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Consumables.md"
 toc: false
@@ -71,7 +71,7 @@ classes: wide
   | 57 | ![Dolcetto o Streghetta](/images/h/h_Vidomina5.jpg) | [Dolcetto o Streghetta](/ItemsIT/con_1053/){: .btn .btn--era5} | Special Skin | Usa per ottenere una skin: Vidomina Dolcetto o Streghetta |
   | 58 | ![Dominatore del fato (14 giorni)](/images/a/avatarFrame_63.png) | [Dominatore del fato (14 giorni)](/ItemsIT/con_1021/){: .btn .btn--era5} | Experience Card | Ottenibile vincendo il titolo di Campione dello Scontro degli Dei inter-server |
   | 59 | ![Don Mullich](/images/h/h_Mullich4.jpg) | [Don Mullich](/ItemsIT/con_1028/){: .btn .btn--era5} | Special Skin | Usa per ottenere una skin: Don Mullich |
-  | 60 |  | [Drago blu](/it/Items/con_2236/){: .btn .btn--era5} | Unit Skin | Contiene la skin Drago blu per il Idra. |
+  | 60 |  | [Drago blu](/it/Items/con_2236/){: .btn .btn--era5} | Unit Skin | Contiene la skin Idra per il Drago azzurro. |
   | 61 | ![Drago d'Ossidiana: skin Drago scheletrico](/images/u/ti_gulongyinengpifu.jpg) | [Drago d'Ossidiana: skin Drago scheletrico](/ItemsIT/con_1984/){: .btn .btn--era5} | Unit Skin | Contiene la skin Drago d'Ossidiana per il Drago scheletrico |
   | 62 | ![Drago del cielo: skin Drago verde](/images/u/ti_lvlongpifu.jpg) | [Drago del cielo: skin Drago verde](/ItemsIT/con_1980/){: .btn .btn--era5} | Unit Skin | Contiene la skin Drago del cielo per il Drago verde. |
   | 63 | ![Drago di cristallo sanguigno: skin per Drago rosso](/images/u/ti_honglongdiancang.jpg) | [Drago di cristallo sanguigno: skin per Drago rosso](/ItemsIT/con_1996/){: .btn .btn--era5} | Unit Skin | Contiene la skin Drago di cristallo sanguigno per il Drago rosso. |
